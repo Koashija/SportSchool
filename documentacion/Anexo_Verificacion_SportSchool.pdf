@@ -1,0 +1,168 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 6 0 R 8 0 R 10 0 R ] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 4104 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (SportSchool: revisión técnica) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (01) Tj ET
+0.570 0.760 0.280 rg 47.0 722.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 721.0 Tm (Resultado al 21 de noviembre de 2026) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 699.0 Tm (Se corrigieron errores de arranque, manejo del almacenamiento y sincronización. Las) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 680.0 Tm (pruebas de lógica interna pasan. La aplicación todavía no se declara lista para) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 661.0 Tm (entrega: falta verificar la ejecución en Chrome, obtener las capturas y confirmar) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 642.0 Tm (el repositorio remoto.) Tj ET
+0.570 0.760 0.280 rg 47.0 593.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 592.0 Tm (Correcciones aplicadas) Tj ET
+0.570 0.760 0.280 rg 49.0 568.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 570.0 Tm (Arranque verificable) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 554.0 Tm (El servidor informa disponibilidad sólo después de abrir el puerto. Informa errores de permisos) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 540.0 Tm (o puerto y cierra con Ctrl+C.) Tj ET
+0.570 0.760 0.280 rg 49.0 511.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 513.0 Tm (Almacenamiento y sincronización) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 497.0 Tm (Se evita que un error de IndexedDB bloquee el splash. Las peticiones de sincronización se) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 483.0 Tm (serializan y un registro creado durante Fetch permanece pendiente hasta que el servidor lo) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 469.0 Tm (confirma.) Tj ET
+0.570 0.760 0.280 rg 49.0 440.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 442.0 Tm (Recursos PWA) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 426.0 Tm (Se actualiza la caché a sportschool-shell-v2 sin borrar cachés ajenas. Se declaran MIME de) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 412.0 Tm (JavaScript y manifest. La interfaz ya no solicita Google Fonts.) Tj ET
+0.570 0.760 0.280 rg 49.0 383.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 385.0 Tm (Navegación y mensajes) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 369.0 Tm (Los enlaces con hash abren su sección. El mensaje de sincronización diferencia éxito de fallo) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 355.0 Tm (del servidor.) Tj ET
+0.570 0.760 0.280 rg 47.0 308.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 307.0 Tm (Pruebas ejecutadas: aprobadas) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 285.0 Tm (tests.py: persistencia SQLite y validación. tests_api.py: un estudiante, dos actividades,) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 268.0 Tm (75 minutos y 8 km; consulta, repetición sin duplicados, rechazo de datos inválidos y) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 251.0 Tm (eliminación. tests_sync.cjs: registro creado durante Fetch y conservación local ante fallo) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 234.0 Tm (de red. Sintaxis JS y compilación de server.py: correctas.) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 205.0 Tm (Límite de la evidencia: los handlers HTTP se ejecutaron en memoria y Fetch se simuló en la) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 188.0 Tm (prueba de concurrencia. No equivalen a tráfico HTTP real, IndexedDB en Chrome ni a una) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 171.0 Tm (prueba offline.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3254 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Criterios y evidencia pendiente) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (02) Tj ET
+0.570 0.760 0.280 rg 49.0 728.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 730.0 Tm (1. Pantalla principal y módulos) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 714.0 Tm (Splash, Panorama, Estudiantes, Actividades, Historial y Desempeño implementados; validación) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 700.0 Tm (visual pendiente.) Tj ET
+0.570 0.760 0.280 rg 49.0 671.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 673.0 Tm (2. Un estudiante y dos actividades) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 657.0 Tm (Comprobados en handlers y SQLite; captura en formularios pendiente.) Tj ET
+0.570 0.760 0.280 rg 49.0 628.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 630.0 Tm (3. Persistencia al recargar) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 614.0 Tm (SQLite comprobado al reabrir conexión. IndexedDB implementado; recarga real pendiente.) Tj ET
+0.570 0.760 0.280 rg 49.0 585.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 587.0 Tm (4. Historial e indicadores) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 571.0 Tm (CSR, filtros, conteos, minutos y km implementados; demostración visual pendiente.) Tj ET
+0.570 0.760 0.280 rg 49.0 542.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 544.0 Tm (5. Fetch API) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 528.0 Tm (POST /api/sync implementado. Respuesta real en Network pendiente; no se afirma envío observado.) Tj ET
+0.570 0.760 0.280 rg 49.0 499.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 501.0 Tm (6. Service Worker y offline) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 485.0 Tm (Manifest, iconos, registro, precarga y fallback implementados. Activación y recarga offline) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 471.0 Tm (pendientes.) Tj ET
+0.570 0.760 0.280 rg 49.0 442.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 444.0 Tm (7. Notificación con permiso) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 428.0 Tm (Solicitud de permiso y notificación local implementadas; confirmación del sistema pendiente.) Tj ET
+0.570 0.760 0.280 rg 49.0 399.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 401.0 Tm (8. Prueba documentada) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 385.0 Tm (Pruebas automatizadas reproducibles aprobadas. Guion completo en VERIFICACION.md.) Tj ET
+0.570 0.760 0.280 rg 49.0 356.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 358.0 Tm (9. Fuentes y evidencias) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 342.0 Tm (Código y documentos disponibles. Faltan capturas auténticas y enlace de repositorio confirmado.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3757 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Ejecución y diagnóstico) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (03) Tj ET
+0.570 0.760 0.280 rg 47.0 722.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 721.0 Tm (Entorno local de evaluación) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 699.0 Tm (Desde la carpeta SportSchool, ejecutar python server.py con Python 3.10 o) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 680.0 Tm (posterior. Abrir http://127.0.0.1:8080/ y mantener la terminal abierta. No se) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 661.0 Tm (requiere npm install. El origen localhost y el origen 127.0.0.1 tienen almacenes) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 642.0 Tm (distintos; usar siempre el mismo al evaluar persistencia.) Tj ET
+0.570 0.760 0.280 rg 47.0 593.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 592.0 Tm (Bloqueo observado) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 570.0 Tm (Chrome devolvió ERR_CONNECTION_TIMED_OUT al abrir localhost y 127.0.0.1 en el) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 551.0 Tm (puerto 8080. Los comandos del asistente recibieron WinError 10013 al conectar al) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 532.0 Tm (puerto local. No se determinó todavía la causa del fallo de Chrome. El mensaje) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 513.0 Tm (antiguo de disponibilidad se imprimía antes de enlazar el puerto y no era evidencia) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 494.0 Tm (suficiente de servicio activo.) Tj ET
+0.570 0.760 0.280 rg 47.0 445.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 444.0 Tm (Próxima comprobación) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 422.0 Tm (Reiniciar con el archivo corregido y abrir http://127.0.0.1:8080/api/health. Debe) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 403.0 Tm (devolver JSON con ok: true. Si aparece un error en la terminal, conservar el texto) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 384.0 Tm (exacto para diagnosticarlo. No es necesario desactivar protecciones de Windows.) Tj ET
+0.570 0.760 0.280 rg 47.0 335.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 334.0 Tm (Cierre de la entrega) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 312.0 Tm (Registrar el estudiante Demo y dos sesiones, recargar, verificar IndexedDB y) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 293.0 Tm (capturar historial e indicadores. Revisar Manifest, Service Workers y Cache) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 274.0 Tm (Storage; probar Network Offline con recarga y guardar una actividad. Volver a) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 255.0 Tm (conexión y capturar POST /api/sync 200. Documentar permisos y Lighthouse si están) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 236.0 Tm (disponibles.) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 205.0 Tm (El repositorio remoto todavía no está confirmado. GitHub solicitó iniciar sesión en) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 186.0 Tm (Chrome para poder crearlo. Este anexo no inventa una URL de repositorio o) Tj ET
+0.120 0.180 0.230 rg BT /FR 12 Tf 1 0 0 1 47.0 167.0 Tm (publicación. El entorno de distribución declarado sigue siendo local.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000136 00000 n 
+0000000233 00000 n 
+0000000335 00000 n 
+0000004491 00000 n 
+0000004627 00000 n 
+0000007933 00000 n 
+0000008069 00000 n 
+0000011878 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+12015
+%%EOF
