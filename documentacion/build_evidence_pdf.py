@@ -4,12 +4,15 @@ import struct
 import build_report as r
 
 root=Path(__file__).resolve().parent
-names=['05-inicio.jpg','01-estudiantes.jpg','02-formulario.jpg','03-historial-recarga.jpg','04-desempeno.jpg']
+names=['05-inicio.jpg','01-estudiantes.jpg','02-formulario.jpg','03-historial-recarga.jpg','04-desempeno.jpg','06-offline-historial.jpg','07-offline-nuevo-registro.jpg','08-sincronizado-tras-reinicio.jpg']
 captions=['Inicio: un estudiante, dos actividades, 75 min y 8 km.',
           'Estudiantes: perfil de prueba, grupo Demo, Atletismo.',
           'Formulario: fecha, duración, distancia y observaciones.',
           'Historial: carrera 30 min/3 km y caminata 45 min/5 km después de recargar.',
-          'Desempeño: indicadores calculados en el navegador.']
+          'Desempeño: indicadores calculados en el navegador.',
+          'Sin servidor: recarga de la PWA con las dos actividades recuperadas de IndexedDB.',
+          'Sin servidor: tercera actividad guardada localmente y conservada tras recargar.',
+          'Servidor reiniciado: tercera actividad sincronizada mediante Fetch API.']
 
 def size(jpeg):
     i=2
@@ -47,11 +50,11 @@ textpage(p)
 p=r.Page(3,'Verificación y demostración')
 y=715
 y=p.section('Resultados y límites',y)
-for title,body in [('Arranque corregido','El servidor informa disponibilidad sólo después de abrir el puerto. El usuario obtuvo /api/health con ok: true.'),('Persistencia y desempeño','Aprobadas con capturas reales de Chrome incluidas en las páginas siguientes.'),('Service Worker y manifest','Chrome mostró la opción de instalar y DevTools mostró el worker activado. Falta una captura de DevTools.'),('Prueba offline','La recarga con Network Offline y su captura no están verificadas todavía. La implementación de caché existe, pero no se afirma una prueba aprobada.'),('Fetch, notificación y geolocalización','La UI mostró registros sincronizados; falta captura de Network POST. Los permisos de notificación y ubicación no se concedieron en estas pruebas. Lighthouse no se ejecutó.')]:y=p.bullet(title,body,y)
+for title,body in [('Arranque corregido','El servidor informa disponibilidad sólo después de abrir el puerto. El usuario obtuvo /api/health con ok: true.'),('Persistencia y desempeño','Aprobadas con capturas reales de Chrome incluidas en las páginas siguientes.'),('Service Worker y manifest','Chrome mostró la opción de instalar y DevTools mostró el worker activado. Falta una captura de DevTools.'),('Prueba offline','Se detuvo el servidor, se recargó Chrome y la PWA abrió desde caché. Se consultaron dos sesiones; se guardó una tercera y persistió tras otra recarga sin servidor. Páginas 9 y 10.'),('Sincronización recuperada','Tras reiniciar Python, la tercera sesión pasó de Local a Sincronizado. Los indicadores sumaron 3 actividades, 95 min y 10 km. Página 11.'),('Notificación y geolocalización','Los permisos de notificación y ubicación no se concedieron en estas pruebas. Lighthouse no se ejecutó.')]:y=p.bullet(title,body,y)
 y=p.section('Guion para entregar al docente',y-5)
 y=p.para('Ejecutar python server.py, abrir http://127.0.0.1:8080/ y mantener la terminal abierta. En DevTools revisar Application: Manifest, Service Workers, Cache Storage e IndexedDB. En Network observar POST /api/sync; activar Offline, recargar y consultar Historial. Volver a Online y sincronizar. Usar el mismo origen, porque localhost y 127.0.0.1 tienen datos IndexedDB separados.',47,y,495,10,15)
 y=p.section('Conclusión',y-10)
-p.para('Con SportSchool comprobé el registro, el historial tras recarga y los indicadores deportivos. Para cerrar las pruebas restantes debo capturar la recarga offline y las solicitudes en DevTools. El proyecto es una demostración académica local sin autenticación institucional para datos reales.',47,y,495,10,15)
+p.para('Con SportSchool comprobé el registro, el historial tras recarga, los indicadores deportivos y el funcionamiento con el servidor detenido. Quedan por capturar las solicitudes en DevTools y, si se conceden permisos, la notificación y la ubicación. El proyecto es una demostración académica local sin autenticación institucional para datos reales.',47,y,495,10,15)
 textpage(p)
 for i,(name,caption) in enumerate(zip(names,captions),4):
     jpeg=(root.parent/'evidencias'/name).read_bytes()

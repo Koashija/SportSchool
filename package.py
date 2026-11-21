@@ -12,7 +12,9 @@ files = ['README.md', 'server.py', 'create_icons.py', 'tests.py', 'tests_api.py'
          'documentacion/build_evidence_pdf.py', 'documentacion/Reporte_final.html',
          'evidencias/01-estudiantes.jpg', 'evidencias/02-formulario.jpg',
          'evidencias/03-historial-recarga.jpg', 'evidencias/04-desempeno.jpg',
-         'evidencias/05-inicio.jpg']
+         'evidencias/05-inicio.jpg', 'evidencias/06-offline-historial.jpg',
+         'evidencias/07-offline-nuevo-registro.jpg',
+         'evidencias/08-sincronizado-tras-reinicio.jpg']
 with ZipFile(root / 'SportSchool_codigo_y_reporte.zip', 'w', ZIP_DEFLATED) as archive:
     for filename in files:
         archive.write(root / filename, 'SportSchool/' + filename)

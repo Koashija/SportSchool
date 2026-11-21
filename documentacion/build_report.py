@@ -184,5 +184,5 @@ def pdf():
 
 
 if __name__=='__main__':
-    pdf()
-    print(OUTPUT, OUTPUT.stat().st_size, 'bytes', len(PAGES), 'pages')
+    # La versión actual incluye capturas auténticas y resultados observados.
+    import build_evidence_pdf
