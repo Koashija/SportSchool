@@ -4,19 +4,19 @@ Fecha: 21 de noviembre de 2026. Esta matriz distingue implementación de comprob
 
 | Criterio | Implementación | Evidencia y estado |
 |---|---|---|
-| Splash y Home | public/index.html, app.js, styles.css | Implementado; revisión visual pendiente por timeout local |
-| Estudiante: nombre, grupo, disciplina | Formulario, IndexedDB y validación en servidor | Handler probado con un estudiante; captura UI pendiente |
-| Actividad: fecha, tipo, minutos, km, observaciones | Formulario y validación | Handler probado con dos actividades, 75 min y 8 km |
-| Historial individual | Filtro por estudiante y búsqueda | Implementado; prueba UI pendiente |
-| Desempeño CSR | Tarjetas y gráfica calculadas desde los registros | Implementado; prueba UI pendiente |
-| Persistencia y recuperación | IndexedDB en cliente, SQLite en servidor | SQLite comprobado al reabrir conexión; recarga de navegador pendiente |
+| Splash y Home | public/index.html, app.js, styles.css | Comprobado en Chrome; captura 05-inicio.jpg |
+| Estudiante: nombre, grupo, disciplina | Formulario, IndexedDB y validación en servidor | Comprobado en Chrome; captura 01-estudiantes.jpg |
+| Actividad: fecha, tipo, minutos, km, observaciones | Formulario y validación | Dos actividades comprobadas en Chrome; captura 02-formulario.jpg |
+| Historial individual | Filtro por estudiante y búsqueda | Dos registros tras recargar; captura 03-historial-recarga.jpg |
+| Desempeño CSR | Tarjetas y gráfica calculadas desde los registros | 75 min y 8 km comprobados; captura 04-desempeno.jpg |
+| Persistencia y recuperación | IndexedDB en cliente, SQLite en servidor | Recarga de Chrome aprobada; inspección de IndexedDB en DevTools pendiente |
 | Fetch API | POST /api/sync con JSON y timeout | Handler y errores probados sin sockets; tráfico Network pendiente |
-| Manifest | Nombre, start_url, scope, colores, display e iconos PNG | Archivos presentes; instalación pendiente |
-| Service Worker y caché | Precarga de siete recursos; recuperación cache-first | Código revisado; registro y recarga offline pendientes |
+| Manifest | Nombre, start_url, scope, colores, display e iconos PNG | Chrome mostró la opción Instalar; inspección DevTools pendiente |
+| Service Worker y caché | Precarga de siete recursos; recuperación cache-first | DevTools mostró Service Worker activado y en ejecución; recarga Offline pendiente |
 | Notificación local | Notification.requestPermission y showNotification | Implementado; requiere permiso y prueba del navegador |
 | Geolocalización opcional | getCurrentPosition al pulsar Usar ubicación | Implementado; requiere permiso; no impide registro si se deniega |
 | Distribución | Python 3.10+, sin instalación de dependencias | Entorno local documentado; publicación no comprobada |
-| Código y reporte | Fuentes, pruebas, README y PDF | Actualizados; capturas y repositorio remoto pendientes |
+| Código y reporte | Fuentes, pruebas, README y PDF | Reporte final con cinco capturas reales; subida al repositorio remoto pendiente |
 
 ## Correcciones realizadas
 
@@ -60,7 +60,7 @@ Resultado: aprobadas. tests_api.py invoca handlers en memoria, sin conexión HTT
 
 ## Diagnóstico del bloqueo actual
 
-Chrome devolvió ERR_CONNECTION_TIMED_OUT para localhost:8080 y 127.0.0.1:8080. El entorno de comandos del asistente devuelve WinError 10013 al intentar una conexión local. Esto limita la verificación desde el asistente y no identifica por sí solo la causa del navegador del usuario. El mensaje antiguo se imprimía antes de abrir el puerto.
+Inicialmente Chrome devolvió ERR_CONNECTION_TIMED_OUT para localhost:8080 y 127.0.0.1:8080. Tras reiniciar el servidor, el usuario obtuvo /api/health con ok: true y la aplicación abrió en Chrome. Se registraron un estudiante y dos actividades; persistieron tras recarga. El mensaje antiguo se imprimía antes de abrir el puerto.
 
 Después de reiniciar con la corrección, comprobar `/api/health`. Debe responder JSON con `ok: true`. No abrir index.html con doble clic ni usar Live Server para esta API. No desactivar antivirus o firewall como prueba.
 
