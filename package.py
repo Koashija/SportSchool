@@ -8,7 +8,11 @@ files = ['README.md', 'server.py', 'create_icons.py', 'tests.py', 'tests_api.py'
          'public/manifest.webmanifest', 'public/icons/icon-192.png',
          'public/icons/icon-512.png', 'documentacion/build_report.py',
          'documentacion/Reporte_SportSchool_UTVT.pdf', 'documentacion/build_verification.py',
-         'documentacion/Anexo_Verificacion_SportSchool.pdf', 'documentacion/VERIFICACION.md']
+         'documentacion/Anexo_Verificacion_SportSchool.pdf', 'documentacion/VERIFICACION.md',
+         'documentacion/build_evidence_pdf.py', 'documentacion/Reporte_final.html',
+         'evidencias/01-estudiantes.jpg', 'evidencias/02-formulario.jpg',
+         'evidencias/03-historial-recarga.jpg', 'evidencias/04-desempeno.jpg',
+         'evidencias/05-inicio.jpg']
 with ZipFile(root / 'SportSchool_codigo_y_reporte.zip', 'w', ZIP_DEFLATED) as archive:
     for filename in files:
         archive.write(root / filename, 'SportSchool/' + filename)
