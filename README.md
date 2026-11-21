@@ -1,34 +1,57 @@
 # SportSchool
 
-PWA de seguimiento y desempeño deportivo escolar. Frontend sin dependencias externas, API local en Python y SQLite. Los registros se guardan primero en IndexedDB; la sincronización mediante Fetch es bidireccional e idempotente por identificador. Las funciones esenciales funcionan sin Internet.
+Aplicación web progresiva de seguimiento y desempeño deportivo escolar. Permite registrar estudiantes y sesiones, consultar el historial individual y calcular actividades, minutos y kilómetros desde el navegador.
 
-## Ejecutar
+## Inicio rápido
 
 1. Instala Python 3.10 o posterior.
-2. Desde esta carpeta, ejecuta `python create_icons.py` si necesitas regenerar los iconos.
-3. Ejecuta `python server.py`.
-4. Abre `http://127.0.0.1:8080` en Chrome. Mantén el servidor activo durante la demostración.
+2. Abre una terminal en la raíz del proyecto y ejecuta `python server.py`.
+3. Abre [http://localhost:8080/](http://localhost:8080/) en Chrome.
+4. Mantén la terminal abierta durante la demostración.
 
-No se requiere `npm install`. El servidor escucha en `127.0.0.1` por seguridad; para uso en otros dispositivos se debe configurar HTTPS y un acceso controlado. Se utilizan fuentes del sistema sin peticiones externas.
+No requiere `npm install` ni un servicio externo. El servidor escucha localmente y crea `sportschool.sqlite3` al iniciar. Los iconos ya están incluidos; `python create_icons.py` sólo se necesita para regenerarlos. Usa siempre el mismo origen: `localhost` y `127.0.0.1` guardan datos IndexedDB por separado.
 
-## Demostración de los criterios
+## Funciones y criterios de la actividad
 
-1. Registra un estudiante en **Estudiantes → Nuevo estudiante**.
-2. Registra al menos dos sesiones en **Actividades**. La solicitud de permiso de notificaciones aparecerá tras la primera sesión en un contexto seguro, si el navegador la permite.
-3. Consulta **Historial** y **Desempeño**. Recarga: los registros se conservan.
-4. Abre Chrome DevTools → Application: comprueba Manifest, Service Workers, Cache Storage e IndexedDB `sportschool-v1`.
-5. En DevTools → Network, comprueba `POST /api/sync` con respuesta 200. El servidor guarda los registros en `sportschool.sqlite3`.
-6. En DevTools → Network, selecciona **Offline**, recarga y consulta el historial. Registra otra actividad sin conexión; al volver a **Online**, el estado pasa a **Sincronizado**.
-7. El botón **Usar ubicación** es opcional; el navegador solicita permiso. Si no se concede, el formulario sigue siendo funcional.
-8. Se puede exportar el historial en CSV. Eliminar una actividad elimina el registro local y solicita su eliminación remota cuando hay red.
+| Requisito | Dónde se demuestra |
+|---|---|
+| Splash y Home | Pantalla inicial y sección **Panorama**, con el nombre SportSchool |
+| Estudiantes | **Estudiantes → Nuevo estudiante**: nombre, grupo y disciplina |
+| Actividades | **Actividades**: fecha, tipo, minutos, kilómetros y observaciones |
+| Historial | **Historial**: lista, filtro por estudiante y búsqueda |
+| Desempeño CSR | **Desempeño**: sesiones, tiempo, distancia y gráfica recalculados en el cliente |
+| Almacenamiento local | IndexedDB conserva los registros tras recargar; SQLite respalda la API local |
+| Fetch API | `POST /api/sync` intercambia JSON con el servidor Python |
+| PWA sin conexión | `manifest.webmanifest`, `sw.js` y Cache API mantienen los recursos principales |
+| Notificación local | Al guardar una actividad se solicita autorización, si el navegador lo permite |
+| Geolocalización opcional | **Usar ubicación** solicita permiso sólo cuando se pulsa |
 
-## Arquitectura
+La sincronización sí usa una API funcional, pero es local: el repositorio distribuye el código y no aloja la aplicación ejecutándose. Las funciones principales siguen disponibles con el servidor detenido después de la primera visita y activación del Service Worker.
 
-`public/` contiene la aplicación CSR, estilos, manifest, iconos y Service Worker. `server.py` sirve esos recursos y expone `GET /api/health`, `GET /api/data`, `POST /api/sync`, `DELETE /api/activities/:id`. `sportschool.sqlite3` se crea automáticamente y no forma parte del código fuente. `IndexedDB` es la fuente de respuesta inmediata; SQLite es el respaldo remoto para el entorno local. `POST /api/sync` envía los registros del dispositivo y devuelve los registros del servidor. No incluye autenticación ni resolución avanzada de cambios concurrentes, por lo que el entorno está pensado para una demostración académica local.
+## Prueba de aceptación realizada
 
-Los permisos de notificación y geolocalización dependen del navegador y de `localhost` o HTTPS. La aplicación no solicita ubicación por adelantado; se guarda únicamente al pulsar el botón de ubicación y luego guardar la actividad.
+En Chrome se registró **Estudiante de prueba**, grupo **Demo**, disciplina **Atletismo**, y dos sesiones: **Carrera** (30 min, 3 km) y **Caminata** (45 min, 5 km). Ambas permanecieron tras recargar. Se detuvo `python server.py` y la PWA volvió a abrir con el historial desde los datos locales. Se añadió **Entrenamiento sin servidor** (20 min, 2 km), que siguió en estado **Local** tras otra recarga. Al reiniciar Python y pulsar sincronizar pasó a **Sincronizado**. Los totales finales fueron **3 actividades, 95 min y 10 km**.
 
+Las nueve capturas auténticas están en `evidencias/` y en `documentacion/Reporte_SportSchool_UTVT.pdf`. La matriz por criterio y el guion de demostración están en `documentacion/VERIFICACION.md`.
 
-## Verificación y entrega
+## Pruebas reproducibles
 
-Consulta documentacion/VERIFICACION.md para los nueve criterios, resultados comprobados, limitaciones y guion de capturas. Ejecuta python tests.py, python tests_api.py y node tests_sync.cjs. Las pruebas de navegador no se consideran aprobadas hasta obtener evidencia real.
+```text
+python tests.py
+python tests_api.py
+node tests_sync.cjs
+node --check public/app.js
+node --check public/sw.js
+python -m py_compile server.py
+```
+
+Las pruebas automatizadas comprueban persistencia, validación, idempotencia, concurrencia y fallos de red. `tests_api.py` invoca los handlers sin sockets y `tests_sync.cjs` simula Fetch; la prueba real del navegador y del servidor está documentada por separado.
+
+## Estructura y alcance
+
+- `public/`: interfaz CSR, estilos, manifest, iconos y Service Worker.
+- `server.py`: recursos web y API `GET /api/health`, `GET /api/data`, `POST /api/sync` y `DELETE /api/activities/:id`.
+- `documentacion/`: reporte PDF, matriz de verificación y scripts para regenerar documentos.
+- `evidencias/`: capturas de la aplicación, recarga sin servidor y sincronización.
+
+Las notificaciones y la ubicación requieren permiso y `localhost` o HTTPS. No se concedieron esos permisos durante la prueba documentada. Tampoco se incluye una puntuación Lighthouse ni una captura de la pestaña Network. Esta es una demostración académica local: antes de utilizar datos escolares reales hacen falta autenticación, autorización y controles institucionales de privacidad.

@@ -13,10 +13,11 @@ Fecha: 21 de noviembre de 2026. Esta matriz distingue implementación de comprob
 | Fetch API | POST /api/sync con JSON y timeout | Tercera actividad pasó de Local a Sincronizado tras reiniciar el servidor; captura 08. Tráfico Network pendiente |
 | Manifest | Nombre, start_url, scope, colores, display e iconos PNG | Chrome mostró la opción Instalar; inspección DevTools pendiente |
 | Service Worker y caché | Precarga de siete recursos; recuperación cache-first | DevTools mostró Service Worker activado; se detuvo Python y Chrome recargó la PWA y sus datos locales. Capturas 06 y 07 |
+| Pantalla móvil | CSS adaptable y formulario a una columna a 620 px o menos | Se comprobó a 390 px, sin desbordamiento horizontal; captura 09-vista-movil.jpg |
 | Notificación local | Notification.requestPermission y showNotification | Implementado; requiere permiso y prueba del navegador |
 | Geolocalización opcional | getCurrentPosition al pulsar Usar ubicación | Implementado; requiere permiso; no impide registro si se deniega |
 | Distribución | Python 3.10+, sin instalación de dependencias | Entorno local documentado; repositorio público en https://github.com/Koashija/SportSchool |
-| Código y reporte | Fuentes, pruebas, README y PDF | Reporte final con ocho capturas reales y código en https://github.com/Koashija/SportSchool |
+| Código y reporte | Fuentes, pruebas, README y PDF | Reporte final con nueve capturas reales y código en https://github.com/Koashija/SportSchool |
 
 ## Correcciones realizadas
 
@@ -26,7 +27,7 @@ Fecha: 21 de noviembre de 2026. Esta matriz distingue implementación de comprob
 - La sincronización se serializa y sólo marca confirmados los registros devueltos por el servidor; un registro nuevo durante Fetch permanece pendiente.
 - El mensaje de sincronización distingue éxito y servidor no disponible.
 - Al abrir un enlace con hash se recupera la sección solicitada.
-- La caché se actualiza a v2 y sólo elimina versiones de SportSchool.
+- La caché actual se identifica como v4 y sólo elimina versiones anteriores de SportSchool.
 - Se elimina la petición de Google Fonts; la interfaz usa fuentes del sistema.
 
 ## Pruebas ejecutadas
@@ -48,7 +49,7 @@ Resultado: aprobadas. tests_api.py invoca handlers en memoria, sin conexión HTT
 
 Se detuvo `python server.py` con Ctrl+C. Chrome recargó `http://localhost:8080/` desde el Service Worker y mostró «Servidor no disponible / Trabajando con datos locales». Historial conservó Carrera y Caminata. Se añadió «Entrenamiento sin servidor», 20 min y 2 km, con estado «Local»; tras una segunda recarga sin servidor seguía disponible. Al reiniciar Python y pulsar sincronizar pasó a «Sincronizado». Desempeño indicó 3 actividades, 95 min y 10 km. Capturas 06, 07 y 08. Esta prueba detuvo el servidor real; no afirma que se haya capturado la opción Network Offline de DevTools.
 
-1. Ejecutar `python server.py`. Abrir siempre el mismo origen, `http://127.0.0.1:8080/`. localhost y 127.0.0.1 tienen almacenes distintos.
+1. Ejecutar `python server.py`. Abrir siempre el mismo origen, `http://localhost:8080/`. localhost y 127.0.0.1 tienen almacenes distintos.
 2. Registrar «Estudiante de prueba», grupo «Demo», disciplina «Atletismo». Capturar Estudiantes.
 3. Registrar Carrera, 30 min, 3 km; registrar Caminata, 45 min, 5 km. Capturar formulario, Historial y Desempeño. Totales esperados: 2 actividades, 75 min y 8 km.
 4. Recargar y verificar los mismos registros. Capturar Application > IndexedDB > sportschool-v1 > activities.
@@ -58,9 +59,9 @@ Se detuvo `python server.py` con Ctrl+C. Chrome recargó `http://localhost:8080/
 8. La tercera actividad local y su sincronización ya están documentadas en las capturas 07 y 08.
 9. Autorizar notificaciones si se desean comprobar; guardar una sesión y observar la notificación del sistema. Un mensaje dentro de la app no sustituye esta prueba.
 10. Probar geolocalización sólo si se desea compartir la ubicación con la aplicación local. La denegación debe permitir continuar.
-11. Probar anchura móvil y, si Lighthouse está disponible, guardar su informe. No se declara una puntuación no obtenida.
+11. La anchura móvil de 390 px se comprobó y aparece en la captura 09. Si Lighthouse está disponible, guardar su informe; no se declara una puntuación no obtenida.
 
-## Diagnóstico del bloqueo actual
+## Incidencia de arranque resuelta
 
 Inicialmente Chrome devolvió ERR_CONNECTION_TIMED_OUT para localhost:8080 y 127.0.0.1:8080. Tras reiniciar el servidor, el usuario obtuvo /api/health con ok: true y la aplicación abrió en Chrome. Se registraron un estudiante y dos actividades; persistieron tras recarga. El mensaje antiguo se imprimía antes de abrir el puerto.
 

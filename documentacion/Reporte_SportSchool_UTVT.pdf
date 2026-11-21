@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [ 6 0 R 8 0 R 10 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R 34 0 R ] /Count 11 >>
+<< /Type /Pages /Kids [ 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 38 0 R 41 0 R ] /Count 14 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -13,130 +13,226 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Length 2349 >>
+<< /Length 2921 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (SportSchool - reporte de construcción y pruebas) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
 0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (01) Tj ET
-0.120 0.180 0.230 rg BT /FB 20 Tf 1 0 0 1 47.0 715.0 Tm (Seguimiento y Desempeño Deportivo Escolar) Tj ET
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 659.0 Tm (Presenta) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 659.0 Tm (Sánchez Jacinto Irving Javier) Tj ET
+0.120 0.180 0.230 rg BT /FB 19 Tf 1 0 0 1 47.0 714.0 Tm (Seguimiento y Desempeño Deportivo Escolar) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 657.0 Tm (Presenta) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 657.0 Tm (Sánchez Jacinto Irving Javier) Tj ET
 0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 625.0 Tm (Matrícula) Tj ET
 0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 625.0 Tm (222310482) Tj ET
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 591.0 Tm (Docente) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 591.0 Tm (R. Vinicio Camacho) Tj ET
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 557.0 Tm (Fecha) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 557.0 Tm (21 de noviembre de 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 523.0 Tm (Repositorio) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 523.0 Tm (https://github.com/Koashija/SportSchool) Tj ET
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 489.0 Tm (Entorno local) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 489.0 Tm (http://127.0.0.1:8080/; python server.py) Tj ET
-0.570 0.760 0.280 rg 47.0 427.0 19.0 3.0 re f
-0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 426.0 Tm (Problema y solución) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 404.0 Tm (El registro deportivo en papel y hojas de cálculo dificulta recuperar el historial de cada) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 387.0 Tm (estudiante. SportSchool registra alumnos y actividades, muestra indicadores de sesiones,) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 370.0 Tm (tiempo y distancia, y conserva los datos de este dispositivo en IndexedDB. Una API Python) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 353.0 Tm (con SQLite respalda la sincronización local mediante Fetch.) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 593.0 Tm (Asignatura) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 593.0 Tm (Aplicaciones Web Progresivas) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 561.0 Tm (Docente) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 561.0 Tm (R. Vinicio Camacho) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 529.0 Tm (Fecha) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 529.0 Tm (21 de noviembre de 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 497.0 Tm (Repositorio) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 497.0 Tm (https://github.com/Koashija/SportSchool) Tj ET
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 47.0 465.0 Tm (Entorno local) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 165.0 465.0 Tm (http://localhost:8080/; python server.py) Tj ET
+0.570 0.760 0.280 rg 47.0 405.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 404.0 Tm (Problema y solución) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 382.0 Tm (La institución registra actividades deportivas en hojas de cálculo o papel, lo que) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 365.0 Tm (dificulta consultar el historial y reconocer avances. SportSchool reúne perfiles y sesiones) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 348.0 Tm (en una PWA que calcula actividades, tiempo y distancia. IndexedDB mantiene los datos) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 331.0 Tm (disponibles en el dispositivo; una API Python con SQLite permite su intercambio mediante) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 314.0 Tm (Fetch cuando el servidor local responde.) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 285.0 Tm (Este reporte distingue las funciones implementadas de las pruebas observadas. Las capturas proceden) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 270.0 Tm (de Chrome durante la ejecución local del proyecto.) Tj ET
 endstream
 endobj
 6 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 5 0 R >>
 endobj
 7 0 obj
-<< /Length 2797 >>
+<< /Length 3343 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
-1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Componentes, pruebas y alcance) Tj ET
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Construcción de la aplicación) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
 0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (02) Tj ET
-0.570 0.760 0.280 rg 49.0 713.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 715.0 Tm (Estructura y presentación) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 699.0 Tm (Splash, Home, manifest.webmanifest, iconos y diseño móvil en public/.) Tj ET
-0.570 0.760 0.280 rg 49.0 670.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 672.0 Tm (CSR y formularios) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 656.0 Tm (Registro de nombre, grupo, disciplina, fecha, actividad, minutos, kilómetros y observaciones;) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 642.0 Tm (historial filtrable e indicadores dinámicos.) Tj ET
-0.570 0.760 0.280 rg 49.0 613.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 615.0 Tm (Datos locales y remotos) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 599.0 Tm (IndexedDB recupera los registros al iniciar. Fetch POST /api/sync intercambia datos con la API) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 585.0 Tm (local SQLite; no depende de servicios externos para las funciones esenciales.) Tj ET
-0.570 0.760 0.280 rg 49.0 556.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 558.0 Tm (PWA y dispositivo) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 542.0 Tm (Service Worker y Cache API guardan recursos principales. Notificación local y geolocalización) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 528.0 Tm (opcional requieren permiso.) Tj ET
-0.570 0.760 0.280 rg 49.0 499.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 501.0 Tm (Pruebas observadas) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 485.0 Tm (En Chrome se registró un estudiante y dos actividades. Tras recargar permanecen Carrera \(30) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 471.0 Tm (min/3 km\) y Caminata \(45 min/5 km\). Desempeño muestra 75 min y 8 km.) Tj ET
-0.570 0.760 0.280 rg 49.0 442.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 444.0 Tm (Pruebas automatizadas) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 428.0 Tm (tests.py, tests_api.py y tests_sync.cjs pasaron persistencia, validaciones, idempotencia y) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 414.0 Tm (conservación de cambios durante Fetch.) Tj ET
+0.570 0.760 0.280 rg 49.0 711.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 713.0 Tm (Parte 1. Estructura y configuración) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 697.0 Tm (public/ contiene Splash, Home, manifest.webmanifest, iconos PNG, estilos, JavaScript y Service) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 683.0 Tm (Worker. El servidor se inicia con python server.py sin instalar paquetes.) Tj ET
+0.570 0.760 0.280 rg 49.0 654.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 656.0 Tm (Parte 2. Interfaz y renderizado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 640.0 Tm (Los formularios solicitan nombre, grupo, disciplina, fecha, actividad, minutos, kilómetros y) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 626.0 Tm (observaciones. El historial se filtra por estudiante. Las tarjetas y la gráfica se recalculan en) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 612.0 Tm (el navegador mediante CSR.) Tj ET
+0.570 0.760 0.280 rg 49.0 583.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 585.0 Tm (Parte 3. Almacenamiento y Fetch) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 569.0 Tm (IndexedDB recupera estudiantes y actividades al iniciar. POST /api/sync envía y recibe JSON) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 555.0 Tm (mediante Fetch; la API local guarda en SQLite. No requiere un servicio externo.) Tj ET
+0.570 0.760 0.280 rg 49.0 526.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 528.0 Tm (Parte 4. Programación PWA) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 512.0 Tm (El Service Worker precarga recursos y responde desde Cache API. La notificación local se intenta) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 498.0 Tm (al guardar una actividad si el usuario concede permiso. La ubicación sólo se solicita al pulsar) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 484.0 Tm (Usar ubicación.) Tj ET
+0.570 0.760 0.280 rg 49.0 455.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 457.0 Tm (Parte 5. Pruebas y distribución) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 441.0 Tm (Se probaron los formularios, recarga, indicadores, servidor detenido y sincronización posterior.) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 427.0 Tm (El repositorio de GitHub entrega el código; la aplicación se demuestra en localhost.) Tj ET
+0.570 0.760 0.280 rg 49.0 398.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 400.0 Tm (Parte 6. Evidencias) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 384.0 Tm (Este PDF incluye nueve capturas de pantallas y pruebas, el enlace al repositorio y el entorno de) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 370.0 Tm (ejecución. VERIFICACION.md contiene la matriz detallada.) Tj ET
 endstream
 endobj
 8 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 7 0 R >>
 endobj
 9 0 obj
-<< /Length 4350 >>
+<< /Length 3991 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
-1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Verificación y demostración) Tj ET
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Criterios de aceptación) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
 0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (03) Tj ET
-0.570 0.760 0.280 rg 47.0 707.0 19.0 3.0 re f
-0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 706.0 Tm (Resultados y límites) Tj ET
-0.570 0.760 0.280 rg 49.0 682.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 684.0 Tm (Arranque corregido) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 668.0 Tm (El servidor informa disponibilidad sólo después de abrir el puerto. El usuario obtuvo) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 654.0 Tm (/api/health con ok: true.) Tj ET
-0.570 0.760 0.280 rg 49.0 625.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 627.0 Tm (Persistencia y desempeño) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 611.0 Tm (Aprobadas con capturas reales de Chrome incluidas en las páginas siguientes.) Tj ET
-0.570 0.760 0.280 rg 49.0 582.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 584.0 Tm (Service Worker y manifest) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 568.0 Tm (Chrome mostró la opción de instalar y DevTools mostró el worker activado. Falta una captura de) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 554.0 Tm (DevTools.) Tj ET
-0.570 0.760 0.280 rg 49.0 525.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 527.0 Tm (Prueba offline) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 511.0 Tm (Se detuvo el servidor, se recargó Chrome y la PWA abrió desde caché. Se consultaron dos) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 497.0 Tm (sesiones; se guardó una tercera y persistió tras otra recarga sin servidor. Páginas 9 y 10.) Tj ET
-0.570 0.760 0.280 rg 49.0 468.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 470.0 Tm (Sincronización recuperada) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 454.0 Tm (Tras reiniciar Python, la tercera sesión pasó de Local a Sincronizado. Los indicadores sumaron 3) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 440.0 Tm (actividades, 95 min y 10 km. Página 11.) Tj ET
-0.570 0.760 0.280 rg 49.0 411.0 5.0 5.0 re f
-0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 413.0 Tm (Notificación y geolocalización) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 397.0 Tm (Los permisos de notificación y ubicación no se concedieron en estas pruebas. Lighthouse no se) Tj ET
-0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 383.0 Tm (ejecutó.) Tj ET
-0.570 0.760 0.280 rg 47.0 343.0 19.0 3.0 re f
-0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 342.0 Tm (Guion para entregar al docente) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 320.0 Tm (Ejecutar python server.py, abrir http://127.0.0.1:8080/ y mantener la terminal abierta. En DevTools) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 305.0 Tm (revisar Application: Manifest, Service Workers, Cache Storage e IndexedDB. En Network observar POST) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 290.0 Tm (/api/sync; activar Offline, recargar y consultar Historial. Volver a Online y sincronizar. Usar el) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 275.0 Tm (mismo origen, porque localhost y 127.0.0.1 tienen datos IndexedDB separados.) Tj ET
-0.570 0.760 0.280 rg 47.0 242.0 19.0 3.0 re f
-0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 241.0 Tm (Conclusión) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 219.0 Tm (Con SportSchool comprobé el registro, el historial tras recarga, los indicadores deportivos y el) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 204.0 Tm (funcionamiento con el servidor detenido. Quedan por capturar las solicitudes en DevTools y, si se) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 189.0 Tm (conceden permisos, la notificación y la ubicación. El proyecto es una demostración académica local) Tj ET
-0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 174.0 Tm (sin autenticación institucional para datos reales.) Tj ET
+0.570 0.760 0.280 rg 47.0 706.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 705.0 Tm (Resultado de los nueve criterios) Tj ET
+0.570 0.760 0.280 rg 49.0 681.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 683.0 Tm (1. Pantalla y módulos - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 667.0 Tm (Splash y Home identifican SportSchool. Se visualizaron Estudiantes, Actividades, Historial y) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 653.0 Tm (Desempeño.) Tj ET
+0.570 0.760 0.280 rg 49.0 624.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 626.0 Tm (2. Estudiante y dos actividades - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 610.0 Tm (Un perfil y Carrera/Caminata se registraron en Chrome. Hubo una tercera sesión en la prueba sin) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 596.0 Tm (servidor.) Tj ET
+0.570 0.760 0.280 rg 49.0 567.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 569.0 Tm (3. Persistencia tras recarga - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 553.0 Tm (Las dos primeras sesiones permanecieron tras recargar. La tercera permaneció aun con Python) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 539.0 Tm (detenido.) Tj ET
+0.570 0.760 0.280 rg 49.0 510.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 512.0 Tm (4. Historial e indicadores - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 496.0 Tm (El historial muestra sesiones por estudiante. Los totales llegaron a tres sesiones, 95 min y 10) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 482.0 Tm (km.) Tj ET
+0.570 0.760 0.280 rg 49.0 453.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 455.0 Tm (5. Solicitud Fetch - comprobado funcionalmente) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 439.0 Tm (POST /api/sync sincroniza. La tercera sesión pasó de Local a Sincronizado; falta captura de) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 425.0 Tm (Network.) Tj ET
+0.570 0.760 0.280 rg 49.0 396.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 398.0 Tm (6. Service Worker sin conexión - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 382.0 Tm (Se observó el worker activo. Con el servidor detenido, la PWA recargó y siguió mostrando) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 368.0 Tm (registros locales.) Tj ET
+0.570 0.760 0.280 rg 49.0 339.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 341.0 Tm (7. Notificación - condicionada al permiso) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 325.0 Tm (El código solicita autorización y genera confirmación local; el permiso no se concedió en esta) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 311.0 Tm (revisión.) Tj ET
+0.570 0.760 0.280 rg 49.0 282.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 284.0 Tm (8. Prueba documentada - comprobado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 268.0 Tm (Las páginas siguientes muestran registro, recarga, prueba sin servidor y sincronización) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 254.0 Tm (posterior.) Tj ET
+0.570 0.760 0.280 rg 49.0 225.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 227.0 Tm (9. Código y evidencias - entregado) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 211.0 Tm (Repositorio público, fuentes, manifest, Service Worker, nueve capturas y este PDF.) Tj ET
 endstream
 endobj
 10 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 9 0 R >>
 endobj
 11 0 obj
+<< /Length 3718 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Prueba sin servidor y sincronización) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (04) Tj ET
+0.570 0.760 0.280 rg 47.0 705.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 704.0 Tm (Secuencia observada en Chrome) Tj ET
+0.570 0.760 0.280 rg 49.0 680.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 682.0 Tm (Preparación) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 666.0 Tm (Se registró Estudiante de prueba, grupo Demo, Atletismo. Carrera duró 30 min y recorrió 3 km;) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 652.0 Tm (Caminata duró 45 min y recorrió 5 km. La recarga conservó ambas.) Tj ET
+0.570 0.760 0.280 rg 49.0 623.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 625.0 Tm (Servidor detenido) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 609.0 Tm (Se cerró python server.py con Ctrl+C. Chrome recargó http://localhost:8080/ y mostró Servidor no) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 595.0 Tm (disponible / Trabajando con datos locales. La PWA y el historial continuaron accesibles.) Tj ET
+0.570 0.760 0.280 rg 49.0 566.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 568.0 Tm (Nueva actividad local) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 552.0 Tm (Se guardó Entrenamiento sin servidor con 20 min y 2 km. Apareció con estado Local y siguió) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 538.0 Tm (presente después de otra recarga sin Python.) Tj ET
+0.570 0.760 0.280 rg 49.0 509.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 511.0 Tm (Recuperación) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 495.0 Tm (Se inició de nuevo python server.py. Al pulsar Sincronizar, la actividad pasó a Sincronizado.) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 481.0 Tm (Desempeño presentó tres actividades, 95 min y 10 km.) Tj ET
+0.570 0.760 0.280 rg 49.0 452.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 454.0 Tm (Pruebas automatizadas) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 438.0 Tm (tests.py, tests_api.py y tests_sync.cjs pasaron persistencia, validaciones, idempotencia y) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 424.0 Tm (conservación de un registro creado durante Fetch. La prueba API invoca handlers sin sockets y la) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 410.0 Tm (prueba de sincronización simula Fetch.) Tj ET
+0.570 0.760 0.280 rg 47.0 371.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 370.0 Tm (Cómo repetirla) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 348.0 Tm (Desde la raíz, ejecutar python server.py y abrir http://localhost:8080/. Mantener siempre el mismo) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 333.0 Tm (origen: localhost y 127.0.0.1 guardan IndexedDB por separado. En DevTools revisar Application para) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 318.0 Tm (Manifest, Service Workers, Cache Storage e IndexedDB; en Network observar POST /api/sync. La) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 303.0 Tm (evidencia de las páginas 11 y 12 se obtuvo deteniendo el servidor real, sin afirmar que se capturó el) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 288.0 Tm (selector Offline de DevTools.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 3599 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Distribución y alcance) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (05) Tj ET
+0.570 0.760 0.280 rg 47.0 705.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 704.0 Tm (Entregables para el docente) Tj ET
+0.570 0.760 0.280 rg 49.0 680.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 682.0 Tm (Repositorio y código fuente) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 666.0 Tm (https://github.com/Koashija/SportSchool contiene README, servidor Python, pruebas, public/ con) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 652.0 Tm (manifest y Service Worker, documentación y capturas.) Tj ET
+0.570 0.760 0.280 rg 49.0 623.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 625.0 Tm (Ejecución local) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 609.0 Tm (Instalar Python 3.10 o posterior, ejecutar python server.py desde la raíz y abrir) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 595.0 Tm (http://localhost:8080/. La terminal debe permanecer abierta; SQLite se crea automáticamente.) Tj ET
+0.570 0.760 0.280 rg 49.0 566.0 5.0 5.0 re f
+0.120 0.180 0.230 rg BT /FB 10 Tf 1 0 0 1 64.0 568.0 Tm (Evidencia incluida) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 552.0 Tm (Páginas 6 a 14: Home, estudiante, formulario, historial tras recarga, desempeño, uso sin) Tj ET
+0.390 0.450 0.490 rg BT /FR 10 Tf 1 0 0 1 64.0 538.0 Tm (servidor, sincronización y vista móvil.) Tj ET
+0.570 0.760 0.280 rg 47.0 496.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 495.0 Tm (Límites de esta revisión) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 473.0 Tm (La notificación y la geolocalización requieren permiso del navegador y un contexto seguro; no se) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 457.0 Tm (otorgaron permisos en esta prueba. La captura de Network, la inspección visual de IndexedDB y una) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 441.0 Tm (puntuación Lighthouse no forman parte de las evidencias obtenidas. La ubicación es opcional. La) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 425.0 Tm (sincronización observada utiliza la API local; GitHub distribuye el código, pero no aloja la) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 409.0 Tm (aplicación en ejecución.) Tj ET
+0.570 0.760 0.280 rg 47.0 373.0 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 372.0 Tm (Conclusión personal) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 350.0 Tm (Comprobé que SportSchool permite registrar actividades, consultar su historial y analizar el tiempo y) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 334.0 Tm (la distancia acumulados. También comprobé que la pantalla y los datos locales permanecen disponibles) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 318.0 Tm (al detener el servidor y que el registro pendiente se sincroniza al volver a iniciarlo. Para usar) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 302.0 Tm (datos escolares reales harían falta cuentas, permisos institucionales y una política de protección de) Tj ET
+0.120 0.180 0.230 rg BT /FR 10 Tf 1 0 0 1 47.0 286.0 Tm (información.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 67859 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -336,25 +432,28 @@ j”jUyj	¶—ÒßÒ^ûhµ{ıÓI¼¿­WM´ãBŞOÁ§æ85{µİõiu©\T·ÓšvrÇ2×S:ºn·*›mY[ïíîh<Á¦“
 šæ\ó-ØII.yxoÌp€%9í{T³Ô	P…Zs¡=ÈÆM4éğÆ0–1®=}f–¿Z…Ö§qsmUÎ5ªJxqiÇ'@ (   »ò{®O@¼·¹÷Ô'˜V|[ö®³»rµÖ÷–0Ó´ªÑ«NªR­R=XëQüO-Ó¿B§éö³dã<»G  ŠÿÙ
 endstream
 endobj
-12 0 obj
-<< /Length 766 >>
+16 0 obj
+<< /Length 1038 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (04) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 4: 05-inicio.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Inicio: un estudiante, dos actividades, 75 min y 8 km.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (06) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 1. Pantalla principal) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (La portada SportSchool ofrece acceso a los módulos. El resumen reflejaba un estudiante, dos) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 373.7 Tm (sesiones, 75 minutos y 8 km.) Tj ET
 endstream
 endobj
-13 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 11 0 R >> >> /Contents 12 0 R >>
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 15 0 R >> >> /Contents 16 0 R >>
 endobj
-14 0 obj
+18 0 obj
 << /Type /XObject /Subtype /Image /Width 1520 /Height 700 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 54561 >>
 stream
 ÿØÿà JFIF      ÿâØICC_PROFILE   È    0  mntrRGB XYZ à        acsp                             öÖ     Ó-                                                   	desc   ğ   $rXYZ     gXYZ  (   bXYZ  <   wtpt  P   rTRC  d   (gTRC  d   (bTRC  d   (cprt  Œ   <mluc          enUS       s R G BXYZ       o¢  8õ  XYZ       b™  ·…  ÚXYZ       $   „  ¶ÏXYZ       öÖ     Ó-para        ff  ò§  Y  Ğ  
@@ -528,25 +627,27 @@ IÙŠ²Jzi«©0ÙàrI%<j¨ª÷'’Ç­—ÉÛí;ÎQ3ËåÍc¨ë?Ï'›ƒÕ1ˆj ÃqújÜRiVZE§|yPæµŠ¯º¦÷&Äì
 D×¶ÈÕk\±µ\Ô]èµÑ6®åíRz£«u|ÍÕåÉò›-ïlÖ½¯Ùq±»!ôG-[$™÷§j>íbyHªÔïõ‹@d*’yrÀùZÜ½­s’Ş_°Ç}TÒ>g½÷t¨zÙ6¥Ñ~ä*Ê©˜úw5öt7±<ª¿^Õ]ãcvK¨c…%tò?,Mftkvçr_/¢Ûn¾Æ=l	O+QWÆö#Úª–[*v¡XëgdÒË™®tª«"=ˆävÛíEKo"¨J‰VI]w-“b"""lDDMˆ‚,#                                                                                                                                                                                                 ÿÙ
 endstream
 endobj
-15 0 obj
-<< /Length 770 >>
+19 0 obj
+<< /Length 949 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (05) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 5: 01-estudiantes.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Estudiantes: perfil de prueba, grupo Demo, Atletismo.) Tj ET
-q 500.00 0 0 230.26 47 434.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (07) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 2. Registro de estudiante) Tj ET
+q 500.00 0 0 230.26 47 446.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 402.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 401.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 379.7 Tm (Se creó un perfil con nombre, grupo Demo y disciplina Atletismo; quedó visible en la lista.) Tj ET
 endstream
 endobj
-16 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 14 0 R >> >> /Contents 15 0 R >>
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 18 0 R >> >> /Contents 19 0 R >>
 endobj
-17 0 obj
+21 0 obj
 << /Type /XObject /Subtype /Image /Width 1520 /Height 1092 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 94112 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -846,25 +947,28 @@ d6¶¡­­•ÈÖ"57&ÊäÏ^õUŞLUÕ+UO%Ïr"±2ôÃ·*oÊ!Œ”¾µs.ÓkEEr1ˆÔİÃMß`–²ygši$Ö’dÃ×
 D×·Õk\±µ\Ô^(ÆQ7¯éR9õG6æúÍÙêê|†ëjç8ÖÆqŒ˜À¼ú©¤|Ï{òéQõÂoL¢ÿ %•S1ôîkğè<Şäòwªı»Õx– ±“lìšYušçJª²#ØGoÎôTÇÕDòTJ²Jì¹p›‘r""nDõÀ                                                                                                                                                                                                  ÿÙ
 endstream
 endobj
-18 0 obj
-<< /Length 771 >>
+22 0 obj
+<< /Length 1018 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (06) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 6: 02-formulario.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Formulario: fecha, duración, distancia y observaciones.) Tj ET
-q 500.00 0 0 359.21 47 305.79 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (08) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 3. Formulario deportivo) Tj ET
+q 500.00 0 0 359.21 47 317.79 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 273.8 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 272.8 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 250.8 Tm (Se muestran estudiante, fecha, actividad, minutos, kilómetros, observaciones y ubicación) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 233.8 Tm (opcional.) Tj ET
 endstream
 endobj
-19 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 17 0 R >> >> /Contents 18 0 R >>
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 21 0 R >> >> /Contents 22 0 R >>
 endobj
-20 0 obj
+24 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 58486 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -1002,25 +1106,28 @@ xß,Ò9Æ1·s•w"'Z>–èëôi}]5¹m[5*½Ú*¦{S±ïTTEó"{N«@]GZüò¹?¾úÙî¾ç¢#3”5Ëá@}ß
 ªØåŠfÃ£YäI$W?;j_blK&Õí0@P  ØGˆæR6Šïmó_¨‰»«¯rğ^Q4|°¾GÛÀVÈÌ^İ¨·$×Ù«+4.Ó,Züı™·¾ëoêßì0 )´n%RÄ´ôòGctjÕ•«tÚ¨¹»Ş`ÖLÚŠ—ÊØÒ6¹v5:ˆ@*€ ¨ùßb~FIQó¾ÄüŒŠ                                                                                                                                                      *  +b– …€Şa¿òQû2H°xe–6Aä}•sXÕUµüÆlÔUPÆ¯ššxØ›ÜøÕŞq]£†8 ŠĞ CÎ                            ºidkìÙˆˆ›|ÈY¦—Šşe;ìOÁÈ©4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4ÒñÌ¤`	4ÒñÌ£M/üÊF “M/üÊ4ÒñÌ¤`qÑş=&]S•_îÉ›½U·üSyízFÊêzÊaØTÍ–9Q4İmèŞó–áßòQû2N3Ë´p ¯ÿÙ
 endstream
 endobj
-21 0 obj
-<< /Length 797 >>
+25 0 obj
+<< /Length 1019 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (07) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 7: 03-historial-recarga.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Historial: carrera 30 min/3 km y caminata 45 min/5 km después de recargar.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (09) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 4. Historial recuperado) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (Después de recargar Chrome siguieron visibles Carrera \(30 min, 3 km\) y Caminata \(45 min, 5) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 373.7 Tm (km\).) Tj ET
 endstream
 endobj
-22 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 20 0 R >> >> /Contents 21 0 R >>
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 24 0 R >> >> /Contents 25 0 R >>
 endobj
-23 0 obj
+27 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 57800 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -1215,25 +1322,28 @@ M9/¾ªW·
 ÊzŸòÉ›ÒÕ_jq=·(Ú]OYBËuªfË¨šFğÇo¼å¶ï™Géö©’q]£€ EÿÙ
 endstream
 endobj
-24 0 obj
-<< /Length 765 >>
+28 0 obj
+<< /Length 1012 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (08) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 8: 04-desempeno.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Desempeño: indicadores calculados en el navegador.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (10) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 5. Indicadores CSR) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (Los cálculos del navegador mostraron dos actividades, 75 minutos y 8 km para el perfil de) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 373.7 Tm (prueba.) Tj ET
 endstream
 endobj
-25 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 23 0 R >> >> /Contents 24 0 R >>
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 27 0 R >> >> /Contents 28 0 R >>
 endobj
-26 0 obj
+30 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 58317 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -1377,25 +1487,28 @@ xß,Ò9Æ1·s•w"'Z>–èëôi}]5¹m[5*½Ú*¦{S±ïTTEó"{N«@]GZüò¹?}õ³İ}ÏDş†g(j1—Â€û¿
 ªØåŠfÃ£YäI$W?;j_blK&Õí0@P  ØGˆæR6Šïmó_¨‰»«¯rğ^Q4|°¾GÛÀVÈÌ^İ¨·$×Ù«+4.Ó,Züı™·¾ëoêßì0 )´n%RÄ´ôòGctjÕ•«tÚ¨¹»Ş`ÖLÚŠ—ÊØÒ6¹v5:ˆ@*€ ¨ùßb~FIQó¾ÄüŒŠ                                                                                                                                                      *  +b– …€Şa¿òQû2H°xe–6Aä}•sXÕUµüÆlÔUPÆ¯ššxØ›ÜøÕŞq]£†8 ŠĞ CÎ                            ºidkìÙˆˆ›|ÈY¦—Šşe;ìOÁÈ©4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4Òñ_Ì¤`	4Òñ_Ì£M/üÊF “M/üÊ4ÒñÌ¤`	4ÒñÌ£M/üÊF “M/üÊ4ÒñÌ¤`qÑş=&]S•_îÉ›½U·üSyízFÊêzÊaØTÍ–9Q4İmèŞó–áßòQû2N3Ë´p ¯ÿÙ
 endstream
 endobj
-27 0 obj
-<< /Length 804 >>
+31 0 obj
+<< /Length 1025 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (09) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 9: 06-offline-historial.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Sin servidor: recarga de la PWA con las dos actividades recuperadas de IndexedDB.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (11) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 6. Consulta sin servidor) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (Con Python detenido, la PWA abrió tras recargar y recuperó las dos sesiones guardadas en el) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 373.7 Tm (dispositivo.) Tj ET
 endstream
 endobj
-28 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 26 0 R >> >> /Contents 27 0 R >>
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 30 0 R >> >> /Contents 31 0 R >>
 endobj
-29 0 obj
+33 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 60708 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -1577,25 +1690,28 @@ u£VÆ¬c˜’,+Q»¾{'µ¥rÒTOA=išùhãuCiØÖ5%·•ä·sW†ä4`P 
 ©@¡P€    oÑî8ü²§é@û²föµWïN'¶éK©ë(Y‡aS6XåDtÒ7…¸£|N[‡ÁGïûÔÉ8Ï.ÑÀ "¿ÿÙ
 endstream
 endobj
-30 0 obj
-<< /Length 808 >>
+34 0 obj
+<< /Length 1020 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (10) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 10: 07-offline-nuevo-registro.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Sin servidor: tercera actividad guardada localmente y conservada tras recargar.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (12) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 7. Captura sin servidor) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (Se agregó Entrenamiento sin servidor \(20 min, 2 km\). Su estado Local permaneció tras otra) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 373.7 Tm (recarga.) Tj ET
 endstream
 endobj
-31 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 29 0 R >> >> /Contents 30 0 R >>
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 33 0 R >> >> /Contents 34 0 R >>
 endobj
-32 0 obj
+36 0 obj
 << /Type /XObject /Subtype /Image /Width 1521 /Height 667 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 60914 >>
 stream
 ÿØÿà JFIF      ÿÛ C 
@@ -1800,63 +1916,167 @@ xß,Ò9Æ1.ç*ğDNµ2Ô,Òİ~M/«£†·M«f¥W¢;a¥TÎÔì{Õ}HóªÁĞGÄÖ¿ |®Oë¾¶{¯ÁèŸÈÎ¨j1—Â€û
 ªØåŠfÃ£YäI$W?6ô¾äÜ–MëÚ`€  °ÉHØV+½·Êüêˆœ:ºø!¯ eáõÓHçËä}¼…lˆÜ‹Û½ä›{6ef¥Úå‹SŸ>ì·¿qêãî0 )´n%RÄ´ôòGctjÕ•«tŞ¨¹w/ÄÁ¬™µ/•±¤mrîju€U  )Qõ¾äûŒ’£ë}É÷!  RˆT FõF½¼Sy²ì™/¥×úª»ÓÄÖ“ÜjeîŸÊ£S/tşU4à¶š[L½ÓùTjeîŸÊ¦œ4·™{§ò¨ÔËİ?•M9Af–çQ/tşU‰{§ò©¦Í-Î¢^éüª5÷OåSLš[D½ÓùTj%îŸÊ¦˜4·:‰{§ò¨ÔKİ?•M0inu÷OåRš‰{§ò©§Í-Æ¢^éüª5÷OåSNš[D½ÓùTj%î¤åSNš[D½ÓùTj%îŸÊ¦œ4·‰{§ò¨ÔKİIÊ¦œ4·‰{©9Tj%î¤åSNš[D½Ôœª5÷Rr©§Í-Æ¢^êNU‰{©9TÓf–ßQ/u'*D½Ôœªj ³Ko¨—º“•F¢^êNU5 Y¥·ÔKİIÊ£Q/u'*š€,ÒÛê%î¤åQ¨›º“•M@imõ÷Rr¨ÔKİIÊ¦ 4¶ú‰{©9Tj%î¤åSPš[}DİÔœª5wRr©¨Í-¾¢nêNU)¨›º“•MHimµwRr¨ÔMİIÊ¦¤4¶Ú‰»©9Tj&î¤åSRš[mDİÔœª5wRr©©Í-¶¢nêNU‰»©9TÔf–ÛQ7u'*DİÔœªj@³Km¨›º“•F¢nêNU5 Y¥¶ÔMİIÊ£Q7u'*š,ÒÛj&î¤åQ¨›º“•MHimuwRr¨ÔMİIÊ¦¨4¶º‰»©9Tj&î¤åSTš[]DİÔœª6y»©9TÕf–×g›º“•F¢nêNU5@Y¥µÔMİIÊ£Q7u'*š ,ÒÚìówRr¨Ùæî¤åSTš[]DİÔœª5w2r©ªÍ-®¢næNU‰»™9TÕf–ÓQ7s'*DİÌœªjÀ³Ki³ÍİIÊ£g›º“•MXim6y»©9TlówRr©«Í-¦Ï7u'*nêNU5`Y¥´Ùæî¤åQ³ÍİIÊ¦¬4¶›<İÌœª6y»™9TÕf–Óg›¹“•FÏ7s'*š°,ÒÚlów2r¨ÙæîdåSVš[MnæNU)³ÍÜÉÊ¦°4¶{<İÌœª6y»™9Öf–Ïg›¹“‘FÏ7s'"šÀ,ÒÙìów2r(ÙæîdäSXš[=næNU<İÌœªk ³Kg³ÍÜÉÊ£g›¹“•M`ilöy»™9Tlów2r©¬Í-Ï7s'*næNU5€Y¥³ÙæîdåQ³ÍÜÉÊ¦°4¶{<İÌœª6y»™9TÖf–Ïg›¹“•FÏ7s'*šÀ,¦Ïg›¹“•FÏ7s'*šÀ,¦Ïg›¹“•FÏ7s'*šÀ-i³ÙæîdåQ³ÍÜÉÊ¦°)³ÙæîdåR›<İÌœªk@²›-næNU<İÌœªk@²›-næNE<İÌœŠk@²›-næNE<İÌœŠk@²›-næNE<İÌœŠk@²›-næNE<İÌœŠk@²›-næNE<İÌœªk@²›-næNU<İÌœªk@²›-næNU<İÌœªk€²›næNU<İÌœªk€²›†Fï{U‰ÚıÆ=D©—Wİ¼\½«àc„QÔPª„"€­ŠX y†ÿ ¹GïûÔÉ"Áá–zXÙO‘öUÊÆª­¯ê3f¢ª†5|ÔÓÆÄâçÆ¨ŸŒòí1ÀV€ zp                           *>·ÜŸr’T}o¹>ä#"€ ¨ˆ @ ©@  X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € X € XPŠªP(T     Ûô{? ¬§©úP>ì™½­UûÓ‰íºFÒêzÊaØTÍ–9Q4án(ß–áßîQûşõ2N3Ë´p ¯ÿÙ
 endstream
 endobj
-33 0 obj
-<< /Length 804 >>
+37 0 obj
+<< /Length 943 >>
 stream
 1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
 0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
 1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
 0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
 0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
-0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ?  Aplicaciones Web Progresivas  ?  Noviembre 2026) Tj ET
-0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (11) Tj ET
-0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 724.0 Tm (Captura 11: 08-sincronizado-tras-reinicio.jpg) Tj ET
-0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 694.0 Tm (Servidor reiniciado: tercera actividad sincronizada mediante Fetch API.) Tj ET
-q 500.00 0 0 219.26 47 445.74 cm /Im1 Do Q
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (13) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 8. Sincronización recuperada) Tj ET
+q 500.00 0 0 219.26 47 457.74 cm /Im1 Do Q
+0.570 0.760 0.280 rg 47.0 413.7 19.0 3.0 re f
+0.120 0.180 0.230 rg BT /FB 14 Tf 1 0 0 1 75.0 412.7 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 47.0 390.7 Tm (Al reiniciar Python y pulsar sincronizar, la tercera sesión cambió a Sincronizado.) Tj ET
 endstream
 endobj
-34 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 32 0 R >> >> /Contents 33 0 R >>
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 36 0 R >> >> /Contents 37 0 R >>
+endobj
+39 0 obj
+<< /Type /XObject /Subtype /Image /Width 375 /Height 811 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length 25648 >>
+stream
+ÿØÿà JFIF      ÿÛ C 
+
+
+		
+%# , #&')*)-0-(0%()(ÿÛ C
+
+
+
+(((((((((((((((((((((((((((((((((((((((((((((((((((ÿÀ +w" ÿÄ             ÿÄ M   !13AQSq‘’2Ra¡"45Ebcs‚ƒ±²Â#rB$CÁÑá¢%UVW”•ÿÄ            ÿÄ (        !A1Ñğ"Qa¡±‘áÿÚ   ? üÓ/:îõ™y×÷¨…³‚ÈQYUE€²ƒ(e£øMV5[A‘Í¹qàĞ:I\jôÍÒ¶hå,­IH&LùM€áÁqwt|<_¨Â±	hë–XÍ¸ĞG±ØÓ%HßO&ÂÊyb‡\¸îÿ Ê,Ú<Î^uİê!J^uıê!jÉ²ß,&—½ÆÁ \’¾Üº%Ãa&0<H7_xvîµ®f”PV¾™Õ,ùİ[˜ÚÛÈî^¦ıf+S[¤z	²Yæc5Äæ ´‚ş.¼SõSğZ#Ôg¹õ¿ÇôçyÇ‰ğ$•—‡	,àMÇµw\aXF1¤ÒÓcn¦§~ÌÚ—e‰ÓZÍö_¡{ºÑÂõ"À±p9±vS<ĞE Ò[uÍıÛ—¦ãºSˆc˜VpzL¨sİµ1ÅôÓ€ƒm{uØ®Š¦ŸJ0MæÂpêœ?½{pım;7Äã¸´‡ ò7¯7Ïò|‘ZÏÅ31ÿ [‡;şßŸQz-Év!BÇÌq*)ã†¥´µˆ<ìÒ83nßÇş7]ÈŒ‘é5&‹éÜò34HuÒ0ï»ZBŞ-œ­¢kíã(½ËGô'GåÒİ-Ã©&Ã*ñ
+rY‡ÓUçlA×ŞÓ{]ÃØl¹üwAk1m*‡	¥ÁY€MMHf­tÍ±¹‘®»wºêyÁ»ı<µ¹òs S¤ÒL?“Å„T"¦¶„DÜo7İkp!rrO3I)0¨§¦–:Š]´V70‰‘zÆâı]*Í²só¿±“›ù×İçh½	œ•c3btRMO=d¦:öæÀŞH"âİVºèt“ÖPiæOÃE‹à¸¼2>€vWei;±8•ÔsşÆı¥&1ãˆ¾®•SÅI¤¸=3pÅPö1ƒƒ@;‚ùKš[Î±hím30""éD@DDD@DDD@DDD@DDD@_cG4gÒY¦‹ –¶H@sÛJøë¬äû¨Æªª™K¤4x€—ÔÔD—'p#Š_ı*Óÿ nÕø³ÿ kâé&‰ãš4Ø;‡MD&$G¬#á[í^‘şÄÄÿ şKÁ?ÿ IëåªÁYFj´š‡Ö— )ªLÚ«[ø_ÿ \qˆˆºAz÷&7CŒÃSSˆ°ÊÈ‹XØî@¹¹²òï<Œ|]ö­ı«‹»£å+G©0:ÊI(YK]ı»ß)m¸y‚/µËGÌÿ üfÑá2ó®ïQR—wzŠÕ“ìh¾,ÜŠ¹ğ	Ã†¬›\[zè°}.Ã°)êë°l>¢B¢2À00Ç~$6×ëµÊáÂÊËäúz|“3nøs‘í7¼¾G=Æîq¹+ Ñr“uskèlpˆKse-.¯vïjçT–ıbìÄëİ95Ó81M-Ñl"™³Á†a’]m}C^ıı· Ñ¸ ´iw(Ñèäõ˜6‡ÉŒÅvùfšvÈÙv`—€6^$²¹šìÄş{Ò'"b{ÿ ß»Ö1NT¨g¦¬§¢Âê¡­eeviÚâH·ÁfíÀ‘Óu£å6–§”ì3KhğÉã¡­’YC‹€İ¸€-¹yr$R"bßÇÛ?ÒÚÓooIÄ´ëÄ*±±.RÊlN¡µÌ©ØÜ8ë[²ËìÓòÊØqŠLØdµ,4Ãßóf–FKíkî¢Ec3óÖ§1ÄïçòõÓíÑ‡ã-£Á1#ÎAªn`8’~¯¿¡}yùf¤n)‡ÍG„T6–,<áµÉ;K¤u‹HÀ^.‰5‹{ü÷÷•Ùüüş½IË ¨ÃhèpùKHêGA$€Êö¸X»0¿Våœ?•ª,kG¤	ª8^	ã§„ÎİcœğA.u­k€¼ˆÏ_şòŸœ>–‘×ÃŠcµõÔÑ>(ª&tcÜæ‚obBù¨‰ZÅb"	™™ÙTtZO£3ÔT,­¯¤„4j$AåÇ¦÷\ê ôÏéÜ•úîÿ ıF®kL©´RÓ´«ñ·ív×(İk[JæLQA{Ï##×}«jğeï<Œ|]ö­ı«‹»¢¿-3şwğDå£æÎş³hğ™y×w¨­²Éiğ[Ç©`Iôàµd€RSıx,ë~ƒ<D”õ¿VÏoÕ³ÁTkY[ßVÏwÕ³Á¤[ußW‚k¾®?‘m×}\~	®ú¸üjE·]õqø&»êãğA©İwÕÇàšï«Á¤[ußW‚k¾®?‘m×}\~	®ú¸üjE·]õqø&»êãğA©İwÕÇàšï«Á¤[ußW‚k¾®?‘m×}\~	®ú¸üjE·]õqø&»êãğA©İwÕÇàšï«Á¤[ußW‚k¾®?‘m×}\~	®ú¸üjE·]õqø&»êãğA©İwÕÇàšï«Á¤[ußW‚k¾®?‘m×}\~	®ú¸üj^óÈÇÈõßjßÚ¼/]õqø/täcäŠïµoí\]İùhùŸó¿‚'-3şwğE›G„ËÎ»½EJ^uİê+VL…%¤ª2¤¢¤ª+(ˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆŞyù»í[ûWƒ/yäcäzïµoí\]İùhùŸó¿‚'-3şwğE›G„ËÎ»½EJ^uİê+VL…%¤ª2¤¢¤ª+(ˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆŞyù»í[ûWƒ/yäcäzïµoí\]İùhùŸó¿‚'-3şwğE›G„ËÎ»½l£§}ULPEéÈCB×/:îõ¶Š¥ô•QO¥ƒ…Ö¬–ñiıªØªXæµ¤z÷ñ
+Ş+£óaØm-cåcÄÖÌÆñßxºÑ[ˆQÎö¾
+[ŒºÇ¸É˜Ÿ¢:‚½ˆé4µôµtóÄ52–˜€°ÕåöÛz¨œº0[OvVÆúœTêrğH¿;Fªk°*ŒN9XÖÅr"#á<$w-Òé,Fè©Ú±L)µ†K·-­{[Ş¶aš]6KIK4±FöHÃoî{nUË—ä÷±8dt¥Õ‘I$ùoi·¿´/†\¥Á»¯{ÑbšG^MG©°È$¹¾Ö~ØŠÑ¤0ræ>¬Ë3H»DkwXîJ¼eÀ Äd¬‹4 9°å7µíÇ‚İ¤šA4Òuuq¼rº£4bÃ¡¶GéíÇaqÑäsÃCŸ¬%·ˆiàQ9f—FÜ1Èé*&i±
+‰¤ €ÖZå+påÄ¨¿§NÇQWÉ’å?}¬AŞŒÒb1sVê`è_ §’,Ş“mn=dÒÙQ†l”†*Zë¤Ì^ëÜ’mÿ „9KH4R«¦j‰˜áú ?uóbùø.ìOh{¦lôìÖK+…ò‹ØnéŞBúÚA¥òã8@¡šœ6Ó[&k:÷/—bÃmT3C¯¥ªW+²›^àƒĞnå¶›m^*hé+¡™š³ • Ø€/kt–hô®v½€b.-nãğ,m½f—‚‹eeb§k5fä—,nzÖéô‰†«
+u5)›7dn“3¾ææßøC–ºÍl8¤Ö%’]Q.Ì õïâ¬cú#S‚C,µs³,sˆw4ï_0ö(bDÊœV¹±Õ—E.´²jŒíî·-ÚA¥òãXA¡šœ4ëÌÍ“5Èƒ~ë¡Ê–+‚CCEI<xƒguHÍb'4‘{q*zG£5-$ÒÌÉ[8øAƒ›uÊ}»Ö‰1–Ëı(IOvP‹›Óß¹]Æ´²|c©¥«‰¤>q,N±ÂÜ7î·‚¹¤DE{Ï##×}«jğeï<Œ|]ö­ı«‹»¢¿-3şwğDå£æÎş³hğ™y×w¨©KÎ»½EjÉ¤³,Œ1w¸†ÖJî¡ä—M&¯qk…Ç÷ã¼Ê£…RW1¬*·Ä¦ Äà0UÄlö¾ğ©ª‚ÊÂ“Z\àÖ‚\x ƒ¾û´CcğÖK‡Kñd¥l–a÷zú:QÉ¾•h¶·ã˜Y¦¥ÌŸZÇo>ÀIAÇ¢".ßä³L1<,^‹	2aòG­lºèÅÛ×bë®*F:7¹sMˆAW0Œ6«Äé°ü>-m]CÃ"eÀÌãÑs¹}ı.äûI´F*­ ÃM$¿VÇkXëº×·Á%(ˆˆŠş„Vã¸¬v¾²shãÌsŞw  ‹ªÒŞOô—Dib¨Ò8ÒC+²±ÚÖ:çğ’¹TD@DDD@DDD@DDD@DDD@DDD@^óÈÇÈõßjßÚ¼{Ï##×}«jâîè¯ËGÌÿ ü9hùŸó¿‚,Ú<&^uİê*Ró®ïQZ²vüà×4ŞŠ7¶ğÀuÒnİaÁ~¨¨Ò*Z%ÃpiÑ5[æñÊ?Ó†)°š¬^VÚJ‡da>¨ÿ åq:}¥s¿•–b9úª	™-Ôÿ ©îGGş§4|Óc4XÔLşİK5R89¼/÷/%ÑİÅ4¼QàÔrTÎx†Ídô/Ö|¨á1éo&•€È"0›_xı¾D0ZmäÑ˜‰¢®hQ3­¼Ø¹X	^ÿ Ğ}9k6*B-{
+–ßÁtÜ…òeSi³1k”tNs$läf¶âxj¡†r÷¤0évÑˆÈÇàúÂJÈÅÚËôµë%Ë˜éƒÒU@Çæt’JZ3 â7ş©:œ,r×¡ÚKâº?ˆh”TÆ|9Å÷šF´4ôn<W¦z)Ë—áMÃ1ÆáSgHØn=¡wüªé>/‚é®ˆPáµfZéòT04ãï£åHSaò:ĞØâ”ı
+¯ÅZi¢8¾†âm ÇadS¹™Û‘áÍ#ØBúÉÎ‘i¼53`4ğÉ5î–PÁsÕ~+ß¿Õ.[Eh±êFg’€âŞ–9t\—PÃÉ÷#ŸÔ*ÆI¬›u‰$nWxLpø~Ë.¢£¦şÜ2š‹£sƒ ß½x¾Šr}¤ÚcQ;°Š#Zâ+İ‘™ºEÊı‡ µ²ãœ˜ÑÕÔºòÖS8·]hÇkiù8ä¾jªX6Hcm¹Ïqçï*jãóî‡òS¥š'§º;[ŠĞ7em[sI‚@Şûp^•ş¬á–£Dğh`c¤•õÁ­kEÉ9Jä9%å«Hq]8¥Ã´‚hª(ë¤Õ´Ãun<-ìï^µË>‘áÚ+Šb´­*Ã‘Œ »!ø^Õ{Gæü3Í9Ä)QMx¸lÓµà¯‹¦<˜éNˆÒŠœcµ5ìe…âF·¼Ù4¯•-3Ò\F‰œŸa5.P^ù©=7uf;¬½¢j:œs@M6Sµµu™j#Ü@ynû}é²cñn†rs¤Úa¥ÁhàµÒ»#	ê¯Gäë’í*ÑQğ*Ìb…¢—ZA–oÁ<Hà½ÏKñ895äÅóatìi¥‰±ÂËnÌzJò>EùcÒoM Â´†hªi«	"0Ó­qoblÈèÕ¤o—Fğˆãi{İQ`Ö‹’l¼säGMñjê¡Ã¢†7‹†ÔL#u»Šı…`”¸¶-†O[en2±®º
+à¹V©å,âğÁ ”1Œ=Œ|Åñİîê³à¤JãòÆ˜è‘hƒ›ıo|Q»„¬9Ø_[Eù#Ó%¡m^††S»{_Q 0ë_¯0Ê
+½$Ğˆ©tÛ:Ç²ÓÅpáqÒ,Jİ¥TxÅN‹Š}­¦¢«h9ÌÍ€ê÷«ä˜ü“Œò%¦øM•Sá±ÍÈ§˜HëwæÒFø¤s$ikÚlZEˆ+õÌ8ÿ *:#†U^ÁbÒ´]•Ò†–÷´»îòŞ—b’ã:G_ˆTR2iä.|,ihiî*Á/ˆŠ ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€½ç‘‘ë¾Õ¿µx2÷F>G®ûVşÕÅİÑ_–™ÿ ;ø"rÑó?çY´xL¼ë»ÖÊ8UUÏ‘Á u’µËÎ»½[Áq0œNºã’X­]·ö­Y?YPÉI º	çi0Ñ@34Ã³—=»ôjgÄ_ş—™i_)˜Ş“a­m4p9ÁÎÔ°‚mÑÅq	üšı¹É¾™aúu‚Í=3é˜ÇŸÈ${ÚÁ©av	[‚5à>6¾"Ûïuì{·û—ã Óü_Aä©v {g3&ipİÒ,Bû¼¯é5FÅŒÀúzJ¶3VáIô&êxšûO"zG6›ŠB…íÂÄ¥ÒUY®ı­{6ÉÖ‰è>œàóáuÅ_P^ÆA$¹ó¦ç~õäş!ô¿W”C†ƒkfÔ›ş«Ä4ãH+ôš,~¢¾GbQ;4oèg°W%8~ªågG1L_M´2·¥|Ôô•Ó½¼:Ê§ş©wrnŞ½¥Ÿ¡^GúŠÓDÖpÇ-™Ğ›ŸşåÏiç+Øşšà£Åa¡e>q%áŒµ×äõ¤Dšı#É+M§¼–ÓÓW‘#ã`§§ÛÀû—+ş©4¸FŠPèõƒ_Wlí·ÿ ›/	äë”¬o@›VÌ´ÒGRA{gap¸é!|Í<Ó,OM±‘‰c!0`¬ˆÖÔ	Lä×ìJ$Ôò5ƒÈáC›À-ÚQC(\–TSaÒ±ï«€Í÷giÇïó.Ëf’`Ú/KO‡š8aÔ5ÏÅÙmn7â¾Fƒò£¤šffQéåqq‚væ`=c~äÃ]ç#Ü‘i.Ò×c”N££ÃäÖ¼ó2õ…úsÁ°üb¦„âPG8¦y–&H.3Z×·Ş¿$bÜ¾i"ØØ]GNÆ¸9Í†23Û ›ŞİËN9Ë®—b¯¢x}%$”²ëZêxÈÍºÖuÉ¸Ş“&½×•JŞQ)±ºZ¡‰¸l¬ ÌÈÚr»¦çş!wÔ‚ºƒBÁÅ¥××ÃJ];Á½Şr¿.Kş¢tÉôæ&³cˆ¶±°œÃÛÆÊ–Ë¾–Ğa²ÑÉ±Ö6Bâù*#.qÍÄn#r™&¿Hiö9BäÆh0‰Xù'²Bo¸¸tâÜ‡òQ¤4s)Ñ:Š–…Ägkujà47•%Ñ#;0Éau,¯/Ù¦isI¿Áßqâ¾Ş)Ëæ˜b‚î£…‘H$,Š2ìoc¾öW$~¹ÄqZzV‚¦FÆj³22ãk¸t/ åË	åúäÚ]ˆ	ø)¥¶GuÛ¨õ¯ÓV´‡L`£¼SSº–MlRS5Ìpw}×ÜÂ¿Ô™PQ²š¬‚ÂIâ%Ç¾Ä&ïaĞ>T^'§2ÒFğñ¾g^!ÓsÀ¯³6‚é®‡èñ¬Ğí&©Å*¯Ô³´:7¼–ƒÓuáZoÊÖ”i…&ÉˆTÇ!ô¡¦n@îı÷*æ‰rÕ¥Ú5‡²Š
+ˆjéØ,ÆÕ39hê½ÁL‘úc’ŒsM1ˆª™àÑĞ1’[+znÕã|°rw[¥| âè”&µµ_İk-/»ºËÅ?Ô™×RIf†¼[YG0î¹+›ĞşT1íeh¤ÙêW.ºY*Z\âë[ÖQúÑIŸƒ<¿¿DË•Çğz¼ŸÄZÖÕ@r¼5Ù…û×Î_SI±ª!Æªq:ÖÆÚ‰İ™Â1fıËå­¾?/ó÷Úˆ»D@DDD@DDD@DDD@^óÈÇÈõßjßÚ¼{Ï##×}«jâîè¯ËGÌÿ ü9hùŸó¿‚,Ú<&^uİê*Ró®ïHØç½¬`%Î6 t­Y0—Ö› ªˆJİm;ç‰¹¤®%í÷ªG¬lQÈifÈlÇ8û:ÕEu%n\*¾+khªpHÍ‰FaÕ£}QÍˆ AsOÂ¹¶ãk*Š‹*ã°œA’DÇQT‡Ë½1›»»­]ªÑ¬V–š¢ZI@¨qc‘Ù®:²Œ‹uU,ô“ª¡’FòÉZ|
+İı2¸E›F®RµfÏ=C­4WdÂ±êYO%Kgx»#1çwr·F±JI „Ó>Y¦‹\#‰¥ÎkomâÛ|d[$‚Xç0ÉÛ09K±ªÊÓ°ŒE³¶PU	œ35†'f#®È(¢û4Ú3‹TEVñG3+Ş×±ÁÄ¡n*¯ôlOZØ¿§Õë3êr:íd^‡	ÄgÏ©¡©“!!Ùb')AQ‡¯šÍCâeÃØÉ·”Ñ_f‰½{0ú·1Ö³„N±¿„vXÈ\÷Âö½²ŒEÌxn²
+¯#ƒAU¯¶m^©Ù­×ej=Å‡ÖÕº–Hã¤Ë¬l!Ûú…|tVj¨*éÇÕSM$ŞÃ#C»®ĞUÍLú˜©¦};=)ÂZŞò‚²+’áuñSmQT2Ÿ±Ñßˆ0úŠŠfË&i5aŒi.&×ê²
+ˆ¾Ş¢ø­m[©öY)ÜØÌ„ÎÇ4ªSáUĞ´=Ô³\ìŒ”Fì¯>ÂFôQ}èx®l¿Ók/ÆÚ—ék“
+Ä"1	(ªZe6ŒÈÎ}h)"¸ü.½•M¦}Kj.ØŒd8`[™ƒUüloÎ˜BXæ;0'ÙoşP|Ô_Z¿ª‹’’®rÀ¼®#¯/R¡5%L5;<°JÊ‹«sHuÏÈ4"ûø~OˆìĞÑY#Ëdc£!‘[ »¯Ùe®M®¢gêÚ Xö»0 fËÒ7ïC_ºl6ºª#-5D±.deÃÄ$Xmt´®©Š’¡ôíô¤ld´}è*"¼0ŒH˜†ÁUy}ªwÂîİ½V©§ššcLRE(âÇ´‚>ä‘}J\ªM$æ7LÒÖºÂül¾ckˆ<FäDDï<Œ|]ö­ı«Á—¼ò1ò=wÚ·ö®.îŠü´|ÏùßÁ–™ÿ ;ø"Í£Âeç]Ş·aÓŠjêyÜ.ØŞGrÓ/:îõ:XSQ1½ä4-Y::Ø(¥ÄªñbQìò#ÇŞGo”·¡t1b´QÔI<µĞ¾m@Šë˜ËH¹#¢Û×'şİÕM‚*ªYw8½ìq´vãšâëstZ¨ÊìÕ­¦
+’ã« ›n¿b®]4CNÓ#§«dÕïÜ]{Dákbœ˜ÖEM<u¾†œÀØ€7@çÖ¹zİ­£sD’S»4­„¸‘r7«£C*ŞÆµ²Áš$t|‡("çÑİÅÖ7¢†¨ª…¬|ÒJÇ6 Èæİ»¸îmú•<£m«+bsÚjæÉ-‹\ëe'¤oBç¥Ğº¸FcUG0,ç1cç·‚ÌšXe•¬–'fsaŠI	|¹xåİc÷ÙQ-2¯‚¢§`u4‚ ã¦]×½‹÷ÛWK.:Ê£Ã&¯,–Î6Ûı[ŸjçÛ¡5¢I%]\bjs»>N“ÂÛ»ÕœKB#,t•ôÍ¥f­ºÙŞ@Îá¹»›ÅE6-†¶ššš*ÚXªM<±6QQ¬8›‹¼õ¤•ølDÙqxf¨Šš8Ü6­[C‰7pŞHê^c_I5d´Õ-Ë,nÊà«¡Ú·ÃÙÊH¯2G-´;;MÛÃŠûÒcÔ”ùš*èšàÉİ£¨2¸7ê^VˆcÒi1ši°Øã~#g4±ÅòÛáÜ‚zì§;G>/5Õ0¼ÌèÌ’ ÄÂÑk€áÁyš!P¯ÒJgKOª­§ŒíáÒê^r–é\ñÕoÄ°xf3F0š›‡Ôå.¸ 3­y"!K¬ÒëD8ƒqe~ìãˆÕõ Ò,"9#|ÕpHK¢¿ÂàíQ=Ç¥y!Q¨Çé ¢&UÑ²fÒÊØİA•×'pÌz}ŠC }µµñ=ÂW=¦MïÈNaí6è^Xˆc»ÒºúgàõñœBÇÔÕ	iÛóÙm÷êîWp|j‚<€FúFIOŒ•“NæI?ğ•÷/7D1èx¦;O<xœB¶7Bì9±ÆÀíÅı@uªšŠRQaÔ¢j˜¢••’Îuˆ¢ñÜ¸tC‘‡côßÓ©vŠöë›íuß¿yø!o‹ d’UKˆ@úY¢‘Sg»£s\.Kz-c¿Ú¼ÁÇ£K¤1f¯-Äy1&=¤?Œc¤{Ñf5‡VIRÚ¬Uÿ ¯™ñ‘.[°²ÍßĞÓÖ¼¡Ç©Õb˜k©™Mm,UN£|L“h/¾÷±yë*86-GEFØ+ñŠzšk€˜:á„Ç`oÒé^\ˆcÓ_ÓQàÓSN±Ñ½ºæ>÷%×é+áã¸¥,ÚS„V
+†ËqSë^Ó{ïí\r!WÃñ6‚©ï8­#µõúï(ø,#‰êT±LV€à•0
+è$˜Ñì×ŞîÖ“oëÍQz>‹Ë¨Ñ|&g×ÅIUÎ|¡ïË p}ËèAŠ`â,UñIÃ,µLn%Öh…¸o^Xf•Ğ¶#ÌM7'p=vZĞÇ£Ë‰ĞÕãµø‹uM¢c"n¿VÇºÛÚ]Ğ¾F”WP»JpÚˆ¤Šzh™³Vüãw~•Ç¢õ™qÜ=µ ššµF¸T:G4eãnê²ò‰H28QD\{Ï##×}«jğeï<Œ|]ö­ı«‹»¢¿-3şwğDå£æÎş³hğ™y×w­”’6*˜¤8µ®†›¸­ró®ïQZ²vi\0ÕFøÙPñ•Ì|¯Ë¬±ê¶íŞÕn›¦ÄõÔ•RË±¹Œê&k_˜:÷ö.)*˜ôKIğ­¾HŸÓÁÌ–'ÂEœZ  ß£w^«Li¦‚xÛM02G3¸İœ‹~‹‡RU1ÙG¥´Í‘Î4Óo¦Š#‹-sî_AÚy7mt%{£l/hÍÃ1â,z—¬¡Åú[«æcÿ E³X‘énßİ¹Y¨ÒÜ.³Y]%a§{â˜†Ü=‚Öî+…DL}<{‹­–°6FO+ÉsM²Ñn•óDD@DDD@DDD@DDD@DDD@DDD@DDD@DDD@DDï<Œ|]ö­ı«Á—¼ò1ò=wÚ·ö®.îŠü´|ÏùßÁ–™ÿ ;ø"Í£Âeç]Ş¢¥/:îõ«&B’ˆRURQRU•…”D@DDD@DDD@DDD@DDD@DDD@DDD@DDD@DDD@DDï<Œ|]ö­ı«Á—¼ò1ò=wÚ·ö®.îŠü´|ÏùßÁ–™ÿ ;ø"Í£Âeç]Ş¢¥/:îô‰¹ŞÖõ•«&Ø`t‚ûƒzÊŞ)¯î[wn XL.±ÄËFÈ=r–Æ=rŞÂ¸çe[c§¹gc§¹XYW)VØÇiîMŒvåe•mŒväØÇiîVQ0ÙVØÇiîMŒvåe•mŒväØÇiîVQ0ÙVØÇiîMŒvåe•mŒvåvåkïXûÓ•mväÙiîVQ0ÙVÙiîMvåe•mväÙiîVQ0ÙVÙiîMvåe•mväÙiîVQ0ÙVÙiîMvåe•mväÙiîVQ0ÙVÙiîMvåe•mväÙiîVQ0ÙVÙiîMvåe•m‘½§¹6AÚ{•”L6T¦¦|c6ç7¬-ê´Û¸î+çT3W3š8tw)0ê'Z×¼ò1ò=wÚ·ö¯^óÈÇÈõßjßÚ³»J+òÑó?çNZ>güïà‹6—z7<Õ	y×÷©ÓsÍZ²é|)… ¦l’
+An¤¦3›ŞÍ*ø ŠßòñSÊ!ÌÚ!òÖWÖ|?KÅ?§Ãô¼SÎÊ%Ô—aiÕ¸‡{WÌ{KZíÄ+±1,"/¥6ˆÂ×:JWµ­ˆLI·¡Öª¾j+Ña5²˜Dp8™˜dfñğš8•:Lº®˜ÔCu!Å¹#Z/Õ¼ ùÈ®Ç…ÖIOæK&©„nî¥:|º¢¢xb‚ï€ÚK¸ ÓÃ‰Üƒç"İWM5%Cà¨aV9¥_¥À1*ªFTÁOš‚Zs´[…îP|¤_J“¯«¦5ÂİHqng=­Ê×C„Ö×:FÓC›Vlç Ğz®w ¢ŠçôÚ½mDZ—g§ÒT*|&¶¢†JÈ`.§ùqºÜwqAEÓƒ¯ˆÕÅ8/Ö´[Ş³K€â5T¬¨‚Ÿ4O¾S ºÜl/rƒå¢½A„Ö×‰,9„fÎ%Á «•V¢)ç|30²F9§  Öˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ
+¥Æ?ıµR¿ã„~‰+_já{Ï##×}«jğ^•ï\Œ|]ö­ı«+¶¢¿-3şwğDå£æÎş³hğ‰y×÷©ÓsÍP—z7<Õ¯lº_
+a@)Û'ÚÃÀÍ²¸Ñr âªP|Y‹ªĞ:Xk4:i =% <@^–ññÖo=1Ÿd-ˆÉRË³R‰}ÔÎØœïh7_;Ãª°º³O]¢oàGX=!~‰Ñ\
+¬Â›YWMeEOÃ’I›œƒÔ/èÔÊ>IK‚bÂ32¡š‡8Ü³5ó0­ÜÇúù_Ôù¿Naf¼kÉWÆÄÀFİ!}•ññO}Á}Ú{J{Tˆ^…]¥XeNSJKŒÛ+b…ùóºí>ÏhÕØá¸Î5ÒÎæÏMNøLY	ÌMìAà«aø•ûq´sKLÙÄî‰ásÅˆ¶ët®]uz'QáÔõp×]Á§[Of“ıÎr©‡×ÓÔaµ”µÕIelÂL¥ÁÆûÁ²çÑ×ÒzøqPÉMsØÃÜ,]ak®‡Ò,6—Ãéj ÖFÉA—VK¢s†â:×ˆ:º,N„hñ¢–j}pÒ~<zE¸£	ÄhÛ…>†¦VÄ[P&kÌeÌxê o\Ú":©±l8b8³éó2	éÌqü½Ö÷-xN#E=5]A$µùbÕ›‡X‡°W2ˆ>µ5lèåm#œDòÌÇ´[ qŞ¾ö¤u.‡ST¬²6¬—BãÀµÅ¢+£¢­¢—	}MS©ÜÚsd$<{mÒ¾v‘VÅ_‹ÏQ :§X4‘b@ \ø/šˆˆ€ˆˆˆ€ˆˆˆ€ŸzÂ }èˆ€ˆˆ
+¥wÆøÑ[Tëş3øGè¤­}«•ï\Œ|]ö­ı«ÁŠ÷F>G®ûVşÕÛQ_–™ÿ ;ø"rÑó?çY´xD¼ëûÔé¹æ¨KÎ¿½N›j×¶]/…  Âí›íĞ|Y‹èQTIIUD-–74°¾nğêp:BºVâXO·I¦p†²«Ãd‘Ù¦+ãyé#1oì_Hô…Ø›IJ×Ã@Çås³:Gù<ô•Ï…¼Ôú_–òˆI™e||Sã_p_a|LAáõ.¶ğ7/]=­=´4à	°==KĞÛÉŒ‡DY¤Çpöán°Ï’Kƒ{ZÙoÅyÒı#£ğá³ÿ §ªH±Ùj Ãß0K³0k8ïrîgDkÈ´Ó“ÌOE°º<NI©«pÚ *iÉ-¹à÷®7#­|¦İv_¡yf¢®‚F°ÚmQĞÀèÚÉb=™ÿ Òú¼¦bØ~‰ÔÃ…;ŸÃkèDQSÆæˆ›c|Í·ÍÓ{©³WæQÈ¸cˆî_sÑöV`Ux‹ñZ
+i)Í…$ÏË,¿â:WéÊV†¸MlQKC…²€ÿ ùnÌâ÷;¢Ö{×/¢õÇä»LjŸ’^±ú¸æŞæƒğwï	äx¿7äu¯•Öî_sÑ\KÂ0¼B¾31¹ÑFAŞ{ï¹{ö3+q]­¨ÂÁ[GO*pÚ¸€Ôo†ÃÑ~û¥G–šìAƒAvyçI«tÙ	ÊMãµÓOç=[Ç;Á2:×Êm×eúG–2¬Ñ¼v“¡¡£:ú&¶@ö|"I¶â»,l¶CŠˆ?h4 çlc)ø]@Ÿü'‘âüxâ.ëuÙ`‚ˆ ûWè	ÄdÂùÆ+£drÍIRıNµ¹ƒlãeãXşÕin•ÅˆTÑÂg•ÌfÏ³_k}êÄêL9Ìµò›uÙa­s½“Üì:|.9´c¦Ä0øi/@?èZs²¸ƒ`<l$ÏĞŞIôwÑŠX§vĞXÌ$¸p³í¾×·¹O%ñx¶¢˜+‚bX´e¡ fy$p6qõGµCÀI€ÑâLÅ(*$¨vSGÉš.;Ü:8{×»à8Æ%]ÈŞ•Ö¶'QV™^æCK5Wèhâ«in3WƒòS¡°{Å[*Úe{…ÜñgÜñM2õo½²;Á}¬O ‹£Ä›ŠĞTIPli"’óEşC¡{·*µíÃh¥øUYgõ:Ámvàòw¸‚ú–›ÑMÛŠ†ÊÉªZesÿ æCEÏx	äx¼KBù>­ÒÌ*¾¶Š¶šDÒù"”8:ÀtYqmkè´à¿^aVI¤:{Füæš`Œ7sFS`ÀäN‚x4cmfÚ—ÿ t›¾¨Øîsm¸ièO#Åù.xnş=\g¤üŸV`:)C¤®¥¨£¬plb0àáq}à€½«Áèh1îQjè µÔí&4^;´’Z:7¯…Ê«ê«9
+ÑÊŠ$’çc¤yo°ï?ûM<_ŸQtäE„A”XDD@û‘S¯øÏá¢¸©×ücğÑIZ´ï<Œ|]ö­ı«ÁŠ÷F>G®ûVşÕÛQ_–™ÿ ;ø"rÑó?çY´xD¼ëûÔé¹æ¨KÎ¿½N›j×¶]/0 Âí›t2¾'İ†ÊàÄd·¢ÕóÂL‰s1ú“ÔjR“Ôj SÆøÂÜµòÈÛ4{DEb1b1–¸µÁÍ6 Ü.¤òƒ¥'Ø16Å—.§#2[»*åQÑÇ¦úI0¶âÓÿ OÂ¹ }áLéÎ‘ËGN/Rú8Û4†’Öô€H¸ñ\Ê&ıMÊäpC†7Ò
+H°ø¡`š
+ÚYSp7ŒÍIû×˜é)xÕF/Šºj,*ªRñLÖ0öã»åÀ¢™å.‚¿L´‡¢–’³Zy}6›İä¬É¦šE%%,˜¬ï§¥ ÂÇ CámËEq5÷1í,Ç4ôïÆqjß¼NxmÛÜ@_Tr™¦BÖÇê÷7'ú=\‰†ºX´ëIbÃ¥ •´RÜ¾ÆeuøÜYsĞM$²h^Y+× •­v'”Í2 ƒÕ·!¸nñÔw/…éáT³SPb“CO3õŠÍ-.ë±sè˜l¾ş¦ZC‡
+±GŠÔÄ*ÎiÅÁ>Û…œKL´ƒÂ…×âsO@Ûe…á¶êİuÏ¢a¯¡Yb5¸}U\²ÒQó;„}ËéÔé¾‘ÕağPÏ‹NêHLQÙ 0°Ü¹ÄAÕTò…¥u0ÍØåQdÍÉ%²´¸uÔ0í>Òœ6Š*J,jª*x‰spr“¾÷"ë˜DÃeÒ3Nt•˜¬¸“1z]+5rJnöõkWÒ¼s§ŠŸÄê* Šù#$‹û‚ø«	†ˆ²°€ˆˆˆ€ˆˆˆ€©×ücğÑ\Tëş1øGè¤¬4ï<Œ|]ö­ı«ÁŠ÷F>G®ûVşÕÛQ_–™ÿ ;ø"rÑó?çY´xD¼ëûÔé¹æ¨KÎ¿½N›j×¶]/0 Âí’AH(… ˆÈYX*‚" """ """ """ """ ", Ê,"" """ """ ""§_ñÂ?EqS¯øÇá¢’°ĞW¼ò1ò=wÚ·ö¯+Şyù»í[ûVwmE~Z>güïà‰ËGÌÿ üfÑáó¯ïS¦çš¡/:şõ:ny«^Ùt¼Â€S¶OJƒÃ)ô3
+ªt8k*gÎú˜%¾Ü-“‡Ş«ĞèmáÕÛKê šhÛ;`<Ï±Ùºz—)G¤8Å3i©q:¸`oÙ)rËôƒ’?«t-p{Xe6àÛ®êdş¿“ÊZÌ`lÁM-DÑd1_W“ïà®àº‡R>®©Æ®«PÉé!:¶fu…ˆ;ÏX^vİ+ÇÚ^[Œ×Œş—÷İ¿¿zƒt›dâÕ¢!Á‚gXoº¹(îßÉ¦×6%!™ÔÂâÌ±´Fğ¾Ì]îWpnL°ÖâñŠŠùjb‚xY<F ĞìâàuçCJ±öÄèÆ1^#q%Í×:ÆüzV¦é2×¹ÍÅ+œæ½ÄJn\ŞîL‘İãüQÁKU_$Êf;Xøb—+@>¥{ıËË××ŸIqªŠy`Ÿ¬’}6:RC»Âù
+À""" """ """ """Â¬" """ """ """ *uÿ ü#ôVÕJÿ Œ~ú)+{Ï##×}«jğb½ç‘‘ë¾Õ¿µgvÔWå£æÎşœ´|ÏùßÁm/:şõ:nyªó¯ïS¦çšµí—KÁL(0»dØÖüçÖ’³šĞùVº£ÍŒ·ZÅÀè{CåYÍh|ªš*˜¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šĞùJf‡´>R©¢¹šÓÿ ´¦h{Cå*š!‹™¡í”¬f‡´>UQÅ¼Ğö‡Ê™¡í•TD1o4=¡ò¦h{CåU[Íh|©šĞùUDCóCÚ*f‡´>UQÅ¼Ğö‡Ê™¡í•TD1o4=¡ò¦h{CåU\,™£p{Gt((Ñ’'¡À‚¤€ªWücğÑ[U+ş1øGè¤¬4ï<Œ|]ö­ı«ÁŠ÷F>G®ûVşÕÛQ_–™ÿ ;ø"rÑó?çY´xD¼ëûÔé¹æ¨KÎ¿½N›j×¶]/0 ‚í›5\cÿ ©€´`Nò¶ÕqüV¦›8c}èaÆ¹;Â&À°ã£4õõÕU‚6²¶)[,ÈømxÙcÖ§€ò5S([¤.Qº¬êw9²0\#Ú7/‡CÊ½vE©Áğœ:‚GÌ’BÏ—èğé°[Êİkq]º›Ãà‘Ì‘²æ%åâÅÄ“}İ\<ºášFt–8,B9ÅŸÚ$‚Ğîäe6é±TÇ%ÕòbN¢§Å°™¥‹9¨É1¼£yp"öö€¬×ò·ŠU¶š_éÔ,Äa1ÿ Öe.{ƒ:,wûÊœğâ­¤Àp¸6}¨5¤š€ábğ=_Üœ6a¼šOW†bŠjNvÄSSU›4» ·/a!FŸ’,b®¬AE]‡ÔÔYœÇºĞ¼75qïP¤åR³‚¦#Ã¨)a–›´·¦ÿ ò'¬«0òÁˆRÕ	¨0šlõª¡­sÈ™å¹nnw›äá òI‹ix†$U!å’1î7-6-¶b{_³@1JM7¦Ñy¤§ÕÈûœ– û®8u.ƒå‡ Ã¢¢ş—E,,kÛrç‡ÆüA¸û—ÄÅ9A­®ÓŠ-&tğÕR††ÄÒâÂ #}÷ğ)ÉÃêSrCÏ%+[WB6‰¤…¤¹Û‹8“»‚øšM ˜†!¨¥¬‹yÓ¸\ˆ7¥tòòÍˆé$‡ …´òI(k\ò7ŞårØÖ›Öâ˜fFè!‡úl®š)MËœìÛïíHÓ‡G/"ÚI¢i’—;¤lO.hap¸7"Î×_Gä|ÓãuTZEˆBĞÊ)jc—İ× ¶à_Ù¿¡||W•j¼F¦
+™°l7jlŒ’Y\ã.QkğÊäœ³brU²Ga”…°IOª|q-†Nná}Éûjù Ç!uPeMšˆY=šç|&¼îãŠèğNH)›†×3*Ì^
+˜aÕAPXÆgâ×§´]|z®Yñ9¨¥†<*†¤…Ã]•§vâl¦ŞZkã’ibÁ0æM<ÑÏ4Ï¼gÇrŸ¹xT‘âõŒ®¨¡š‰±Àé?²%t…¡¦Ö.µûì}‹/äƒ…Òkñ<<j[“µ…åÌdœåq¼¶âB1Ø={˜øó‡¼nq¹Ü‰ö¯SÊÖ'<µò
+Fº®au‹¾úUıÉÃícÜŠÖ^f`5Qº…dAÒ‡“œ÷³wo ¼Ÿ ŸÄj(j€ÀóÀ7Òê¹e¬«d‘Õ`x|Ñ=í”±Ï’ÙÚ,¯îà¼¾¶¡ÕUsT=­k¥yykE€¹½‡±XŞÉÎšQTvØ7'Æ3†E_A-”Ò‡k@µ¸ƒÔ{×#]M²VKNeS‹Kãvf“ì=*Í5ˆĞPÔÑÒUË5H´Œk·ı/œ¤ohßGñ†)(ÑüaŠJ‚©_ñÂ?EmT¯øÇá¢’°ĞW¼ò1ò=wÚ·ö¯+Şyù»í[ûVwmE~Z>güïà‰ËGÌÿ üfÑáó¯ïS¦çš¡/:şõ:ny«^Ùt¼‚ˆR¶iTYÇXû
+Ğ¬±å¼·RØ$úùB"š+ºÏ¡”,‰>„~@©ª(¯ë>„~PšÏ¡"j‚+úÏ¡&³èGäj‚+úÏ¡&³èGäj‚+Úß¡”&·èGåjŠ+ÚÏ¡”&³èGåjŠ+ÚÏ¡”&³èGåjŠ+ÚÏ¡”&³èGåjŠ+ÚÏ¡”&³èGå(¢»­úùÎ·èGåjŠ+Úß¡&·èGäjŠ+ºß¡&·èGäj’+ºß¡&·èGäj’+ºß¡&·èGåj’+ºß¡”&·èGåj’+ºß¡”&·èGå)"»­úùBk~„~PƒUN°¿ş,%eIò9ÂÛ€êÁET¯øÇá¢´ª×ücğÑIXh+Şyù»í[ûWƒî|ŒÕBÚ:ÚgHÑ1{^Nò-mË;¶¢<´|ÏùßÁ~Xêá–¯¦@éalxÑÍ–ß´¢Í£Ä%ç_Ş§MÏ5B^uıêtÜóV¬º^
+AD)5vÍ0QYÒ_ŠÓĞè.×W’ëí•ì?ó¸½—Ô©Ñ]aÌsŞÑ)a³.ZâNë Ôy à{M†á8´saĞBÙ£ˆ:•ÕYïwZàƒq×Åb—A0v(%Ù]LÜú‡¶wgi¸}¸ûò1ã¥+Ce{G HQUD@DDDA„D@DDD@DDD@DDD@XYX@DDD@DDE„XDEZÿ Œ~ú+J­Æ?ı’
+é!{˜Ö¹-6â—6WDÏA½Ë;¶¢nqs‰q$’Qam¬¼ëûÔé¹æ¨KÎ¿½N›jÕ—K¡MªM«¦i w,Œ‘°:K›ğhXÚØ·ÌUDÖ±´³°o˜¬í,ìæ*£(±´³°o˜¦ÒÎÁ¾bƒ(±´³°o˜¦ÒÎÁ¾bƒ+	´³°o˜¦ÒÎÁ¾bƒ+	´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾b€‰´³°o˜¦ÒÎÁ¾bƒ³´³°o˜¦ÒÎÁ¾bƒ›K;ùŠm,ìæ(›K;ùŠm,ìæ(›C;ùŠmìæ(;C;ùŠmìæ(0‹;C;ùŠmìæ(0‹cK& Êğ/–ûŠÖ€ª×ücğÑZUkş1øGè¤¬4Ñ3ĞorçJè™è7¹gvÔIm¬¼ëûÔé¹æ¨KÎ¿½N›jÕ—K¡MªM«¦lÕqüV•º«ŒâµÇ—XÜà–\\6UEëòhvŒÖèm6-$5>Ù§dQKU9y•¶øNËÑ¿…–½!Ğ<.Pp'	3;ª§dò½Ï$½¶»ì¸SÉqäˆ½gFt3F1mÒL@Õ¹ÕTùİONFÎÀòĞç›ÚëF›èF‡h¦Thìï®¬®—Rùó’;©£ _r¾F<µ³àZ!£UºgS€7­ªÔ–ëª…Qdp47á¸ûn¾G&š1!¥µUMEQYX˜Ù¡ ¼î•< Ç‚¢÷äãG4‹¡ª4˜H¥±Bf¨.}K@øFİú—Ê¶ŒP`1PM†a¯¥‚gÈÍsjõñÉ”‘»¥§vğ¯”z1çhˆªˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆ‹\åÁŸ ÙÄÚèCb*ÀN×4½í-½ˆYR'IŒo£øÃVV(ş0Å•PUkş1øGè­*µÿ ü#ôRV
+è™è7¹s¥tLôÜ³»j$ˆ‹6V^uıêtÜóT%ç_Ş§MÏ5jË¥Ğ¦˜]3f«ŒâµÄı\Œ}ƒ²lî½m¨¶7²Ğª:í-Ó¼CJi)àÄèğğ)Ø#‰Ğ±í,hêˆ÷,¿Oñ‡b0Vå¥ÃG°°ˆÎèòÚü}+t®E_sÒjü“§£˜ñ(µS™Iµï»~â®Si¶'ƒQ¶:WC…O´SæŒ’]{ü-ûÂåÑ\MvøO)8ÆM‹A6#qI•.’7æq= ‡Ì¦cPa?Óâ‚€D"|~©ÅñÆãrÆ»7Ã¢™»ìK•<s©Ãªd¦Ã¢¨Ãì)ßon@:-Ûû—ÇÒÍ3Ä´ššš¶:H)©Üé4eÌî.7'~õÌ¢d"" ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€¢öæ½”‘¼$f}À7à¶" ßGñ†,¥N·?üZ.J"
+­Æ?ı¥V¿ã„~ŠJÃA]=÷.t®‰ƒ{–wmD‘fÑÊËÎ¿½N›j„¼ëûÔé¹æ­YtºÚ Âé›do-¸ ñ‚–fölZÂÊ¨Ù™“C›Ù1A¨föLLÍì˜¢ˆ%™“=é™“=ê(‚Y™Ù3Ş™™Ù3Ş¢ˆ%™“=é™“=ê(‚Y™Ù3Ş™™Ù3Ş¢ˆ%™“=é™“=ê+'™“=é™“=ê+'™“=é™½“ó7²bfodÅ¹>äÌŞÉ‰™½“ó·²g½3·²g½kD3·²g½3·²g½kD3·²g½c;{&{Ôó·²g½3·²g½AO;{&{Ó;{&{Ôó·²g½3·²g½AMò47s[Ô”Zÿ Œ~ú+_r«_ñÂ?E%a ®‰ƒ{—:WDÏA½Ë;¶¢Hˆ³håeç_Ş§MÏ5B^uıêtÜóV½²ét)µ@)5vÍèÚ7ˆJ4—SFe‚hâî¥Î<w–ïû×I‰h5[¢©–:Ê™^`ŒŠpÈÃá½Ä5¼ãM‘íac^àÂn@;Šú‘ãø‹0‡aÍ¨p§t‚Ccğ®=¼mìSŞÔh,®lÕÄØ¦“nk†©a°aã÷¨ò[¢ô5ĞQâ•ÍW(­:&Ø²6Úù7Í¶™õF=tš³Å¹ÜTÏ "¥Œ!"êàõ-1Ğœ"‹«Ä[Q#ds]+Æ“vcı»Øwæû—ÌÑm‹Ñ©ñ
+¸ä„j$–)›) –õ·%‡šşÅÁ:ª¡Ñ˜İ<¦3Å¥æŞÊª†E«dò¶?T<à˜aÀô'¢Ò*FËG[;ğÖÉ1nªrY{·§Fõ²¿B0ÌVZI%–’®HŸ,L-cCZ$³³A&ÛÅ×í•?ş¢oèü3»¹`ÕT9áÎRá¸óp™#×›¡˜F!„Òj&¨–œÅ“eàƒn}êı~Òbø– u5+ickÜÉ2=9¸´0æ;¸›/eLìË’y[—Ñ³È·r˜¯«‘U8'‰Öı¦bÂ43Âij¥óU¹ô<Ï iŒ¶¶ç}ëÅVı²§!fÑ6SÄg6UÒ eaPDDD@DDXDXDEDDD@DDD@DXA”XDQV¯øÇá¢²«WücğÑI! ®‰ƒ{—:WDÏA½Ë;¶¢Hˆ³håeç_Ş§MÏ5B^uıêtÜóV½²ét)¤ÕÓ6Öµ¡™äu›Ñn%5õ=B§şØèÊ´ª‹ZÈzŸâ³­‡©ş*ª*bÖ¶§ø¦¶§øª¨‰‹ZØzŸâšØzŸâª¢µ­‡©ş)­‡ÕŠªˆbÖ¶§ø¦¶§øª¨†-kaõ_âšØ}Wøª¨‚Ö¶Uş)­‡ÕŠªˆ-kaõ_âšØ}Wøª¨‚Ö¶Uş)­‡ÕŠªˆ-kaõ_âšÈ}Wøª¨‚Î²§ø¦²§øªÈ‚Î²§ø¦²§øªÈ‚Î²§ø¦²§øªÈ‚Î²§ø¦²§øªÈ‚Î²§ø¦²Uş*² ³¬ƒÕŠk õ_â«":È=Wø¦²Uş*² ·•atD’8´ñZÒãöÜ"­_ñÂ?EeV¯øÇá¢’°ĞWDÏA½Ë+¢g ŞåÛQ$DY´r²ó¯ïS¦çš¡/:şõ:ny«^Ùt¸Â€Sjê¥SÆ?ñQ¦h}DMp»K€#ïR©ãø­q¸±í{x´Ü*¿£ e{i`‡½­µå2ıö\Ş+ §Äª!hhyh½½êôæzèê+)áq/0míUqLNJ÷¼µ±ëö‹oßÖUN_Km«¤}gs¢tÅÄ:ä_wE‡rÌ:5®¢lí¨ ÒAnà	·¹|öcUM…Œ"'¹ÈÙÀ^ÑÔ
+ßşä¯Õø!¹‹>†ô9Z“G`fÙÿ Xó³×k‰=[ÖÓ¢–8Mc#Ö¸_xâïú/‘.3W#jƒœßú—Ifô¥¸éq|O¼BHÜ˜0]Ä”NW(ôr:¹å*§üêîc¶ÿ õCÂv™ë,¢8©Z\÷rlm¸)Rcõ´¡Áš§^MhÌËÙİaV¤Å*)j'š2ÂfH×6íp;ø"òèjôn‹$§xŠ±33·|'ä/‘Eƒ
+œ^j#PĞØƒ¬hÌû–ÜuÅî.Ô¹¥¡¹`·wÊ¥6'SOY-Tnn¶@àâ[»N_Thã]HÙÅXkda|zÀqíß{­ßí‘hç6hå{Znß‚oíÿ Kä3«e¦²ÀZç04€Vß÷v®6C]pËf-át9}£"JJŠ¦TF]v1·±áÆëu^Á$ãf•Ì†8Xù€¹.áÄÙ|†cõ¬†HÚcó]Ù~¿êCH+sD.d9—…úì‡+±èÔfÚÊæü)µ,,n`O_V«Š6íUa“<8±¹	)µ¯ÖUëu—iÌÏƒ.¸|ù,¿«|EÕ8œÀ<²îhq¹ ¢òúîÑ¦Ô×>6ÈØ€ 1†×#óÿ •ÌTDaH‰¹c‹oÜ¾»4›k®L.7™{,_i4Ï‘öÌò\mÖPADD@DDD@DDD@DDDA¾ãD£øÃU«ş1øGè¬ªÕÿ ü#ôRV
+è™è7¹s¥tLôÜ³»j$ˆ‹6V^uıêtÜóT%ç_Ş§MÏ5kÛ.—›T›WPÍ²fÆÇ·~QbB¯e½-7i±[DòúåTTY²¹¯—×+"¢_\ªš¥d²»´Kë¦Ñ/®†©Y,®íúé´Kë”¬–Wv‰}sà›D¾¹AJÉewh—×)´Kë”¬–W6‰}r›D¾¹ANÉesh—×)´Kë”ì–W6‰}r›D¾¹ANÉesh—×)´Kë”ì–W6‰}r›D¾¹ANÉesh—×)´Kë”ì–W6‰}r›D¾¹ANÉesh—×)´Kë”ì–Vö‰}r›D¾¹ARÉeoh—×)´Kë”,–Vö‰}r›D¾¹ARÉeoh—×)´Kë”¥akŒ®kFëô•'½Ï7q%EV¯øÇá¢²«WücğÑIXh+¢g ŞåÎ•Ñ3ĞorÎí¨’",Ú9Yy×÷©ÓsÍP—z7<Õ¯lº\
+mP
+m]C5ØpÊù¡×CEU$<s¶'øÙVáÅz–Yô]|X¥,£{İUª]—«-÷«ô´ú#] Äı1:	óG,¯Ößàœ·ºj<}e ¹Àrx ½†Š¨Òj–‚E†À#i¼·æ'£Ø´ÕRh´tòl?ÑÌ!òë_,¿İi¸É«¶ò-utÇ™Á„WÌ*Kiİ™šÉsüÆõïT>åís7EU9§“|&P*µÒïÕäÕÜï7ïŞ¾<¿íGaû<QaÁ®Ãæ“\O÷D¡ß ^ûºLyb!âmÁaTeDDDD>äDA„DEjÿ Œ~ú+*µwÆ?ı’
+è™è7¹s¥tLôÜ³»j$ˆ‹6V^uıêtÜóT%ç_Ş§MÏ5kÛ.—›T˜]C4‚Ê–fÄÀâ3=Üàv—z‘ùUD,m.õ#ò¬í.ìâòªŒ¢ÆÔîÎ/*mNìâò ÊÂmNìâò¦ÔîÎ/*&ÔîÎ/*mNìâò "mNìâò¦ÔîÎ/*&ÔîÎ/*mNìâò "mNìâò¦ÔîÎ/*&ÔîÎ/*mNìâò "mNìâò¦ÔîÎ/*&ÔîÎ/*m.ìâò ,,í.ìâò¦ÒîÎ/*"ÎÒîÎ/*m.ìâò Â,í.ìâò¦ÒîÎ/*"ÎÒîÎ/*m.ìâò Â,í.ìâò¦ÒîÎ/*"ÎÒîÎ/*m.ìâò Â,í.ìâò¦Ò{8¼¨0‹cÙÁCdâÜ
+ÔŠ*õÿ ü#ôVzïŒ~ú)$4Ñ3ĞorçJè™è7¹gvÔIm¬¼ëûÔé¹æ¨KÎ¿½N›j×¶].0 ÂéšU<cÿ ¥n©ãø¨@Á$ñ±Îkœqà=ª¢(»çSRDÜ-ğ²7Á“|V‘Ï·M‡Íi,NlğM®tŒ™™šÀ×4_Tİ|dDEzî£ø¸ML´™&W6ş“Ës)6Äy/]n`Oš8İO$3üĞàrÕäõ-¨‘­Ä‹hÍÆ‰Gñ†¢ «×sÿ …¿¢°«×sÿ …¿¢’°ĞWDÏA½Ë+¢g ŞåÛQ$DY´r²ó¯ïS¦çš¡/:şõ:ny«^Ùt¸‚ˆR¦iÔñüV•`´JÆ‹€öîßÒvi:‡Š¨Ìu3Æ#šFˆÍÛgz=Ê3Ï-CóÏ#ä¸Ü©lÒušN¡â¨Ğ‹~Ë'PñM–N¡âˆĞ‹~Ë'PñM–N¡âƒB-û,CÅ6Y:‡Š·ì²uÙdê(4"ß²ÉÔ<Se“¨x Ğ‹~Ë'PñM–N¡âƒB-û,CÅ6i:‡Š·ìÒuÙ¤êoŠ·ìÒu7Å6i:›âƒB-û4MñMšO£âƒB-û4ŸGÅ6i>Š·ìÒ}Ù¤ú>(4"ß³Iô|Sf“èø Ğ‹~Í'ÑñMšO£âƒB±à[;­Ş¶lÒ}Ù¤ú>(5kë»ÅEoÙ¤ú>)³Iô|P(ş0Õ…²6sˆ/µ€ëZ¯]ÏşşŠÂ¯]ÏşşŠJÃA]=÷.t®‰ƒ{–wmD‘fÑÊËÎ¿½N›j„¼ëûÔé¹æ­{eÒàR
+L.™¦WW†èd•˜}K±:8$®Ì …áùGEÀ°ñTê´O‰ĞG<ÕÈãq:ìÊlw‘c÷+¨ø+!tŒĞ¬iø0ÄI!i˜Â"%÷M•Fh¶:ùŸpšÃ#-™¢#q~>2/«âÒG$£©ÔÆì’?VlÂÕÊİÅ¡¨’:jJŠ¶FĞç>8\ ¸¿WQÏ"É±ˆ€—D@¿µ/íMË3tºÂ ÊÂ"(ˆˆˆ€ˆˆˆ€ˆ°ƒ)u„Üƒ7KûV7&äºÅÑzîğ·ôVzîğ·ôRHh+¢g ŞåÎ•Ñ3ĞorÎí¨’",Ú9Yy×÷©ÓsÍP—z7<Õ¯lº[
+a@)…Ó7q†éf„CUAU%Nç>72V†8±kÛï_Hr‹Ï¥u]5M™‘ÌØŞÂÙs:ö!Í;—›…<§¨¦&½;Á63IS€¹ÔÍ¨|ÑÄÉÛõ‚$x+—)”Õ1ä§Ã§‰¹©Ï:ŞÚÀ½ySÔP4õp×¦UòIVu’áõl–7HbTdi7øv*å7)ØLx“ñàR²D‚F“”7-®[»î²ò‹¢–=E2S¨x’yĞC\âàEÊÖ³”õÊzŠ£™OQL§¨ "e=E2¢ƒ³”õÊzŠ+³”õÊzŠ"ÎSÔS)ê(0‹9OQğL§¨ø Â,å=GÁ2£àƒ³”õÊz‚"ÎSÔ|2¢€°³”õÊzŠ"ÎSÔ|)ê>0‹9OQğL§¨ø Â,å=E2¢ƒ³”õÊzŠ"n(€«×sÿ …¿¢°«×sÿ …¿¢’CA]=÷.t®‰ƒ{–wmD‘fÑÊËÎ¿½N›j„¼ëûÔé¹æ­{eÒØS
+L.™¶¹ú–7(ønß~¥ª~Ùşd©ãø­ \ØqUö©ûi<Ë;UGm'™'¤¨§h3Á,`ğ/iCIR %Èmâ¨mu´dÚê;i<ËÒÏNg†HÃ¸giZQöºÚO2mu´e¡oÚê;i<ÉµÔvÒy–„A¿k¨í¤ó&×QÛIæZı®£¶“Ì›]Gm'™hDöºÚO2mu´e¡oÚê;i<ÉµÔvÒy–„A¿k¨í¤ó&×QÛIæZı®£¶“Ì›]Gm'™hDöºÚO2mu´e¡oÚê;i<ÉµÔvÒy–„A¿k¨í¤ó&×QÛIæZı®£¶“Ì›]Gm'™hDöºÚO2mu´e¡oÚê;i<ÉµÔvÒy–…¾
+Jš†Ş%”fËv0ı]è]Gm'™6ºÚO2Ü0¬@˜À¢©&K†QøVãnµMÍ-qkˆ=-E)œ–KğmÎéZ’ãD^»Ÿü-ıõ¢»Ÿü-ı•†‚º&zî\é]=÷,îÚ‰""Í£•—z7<Õ	y×÷©ÓsÍZöË¥°¦˜]3N§şßø¬R*a.µ³‹ÜÛ¥f§şßø­*£­ÆèÙ\5ŸÛ†±ò­3æk˜bµDÓ†áKS6Ñ$®hpÖ6(ÁêºâQTÇW¤ïkp÷2I÷ÉPé#³ƒ¬Ïü.QDDD@DDD@DDD@DDD@DDD@DDD@]v‡é&†ÔSÔ±Î3Ì.Z7µ™lKOA\Š)1£Ôp2Ápú*Zrê‰]M|1ïŞlzzŠóZÙ5\Ò2ù^òEÖ„H¬B7R|a«4ŸjÂ ´Wsÿ …¿¢Ş´Wsÿ …¿¢’°ĞWDÏA½Ë+¢g ŞåÛQ$DY´r²ó¯ïS¦çš¡/:şõ:ny«V]-…0 Âé›hÉ#^KHàäÙÛÚµ@,ª‰Švö­M½«TP*'³·µjlííX¢ˆ‰lííX›;{V(¢	lííX›;{V(¢	lííX›;{V(¢	lííX›;{V(¢	lííX›;{V¨¢ìííZ³³·µjŠÂ	ìííZ›;{V¨"	lííZ›;{V¨¢	lííš›;{f(¢	líí˜›;{f(¢	líí˜›;{f(¢	líí˜›;{f(¢	líí˜›;{f(¢	líí˜›;{f("	ìíí˜›;{f("­É9äZöÜ¤DQh®çÿ E½h®çÿ E$†‚º&zî\é]=÷,îÚ‰""Í£•—z7<Õ	y×÷©ÓsÍZ²él)¤Lİ^¢ÑÍ‡ĞÔâ‹(İ\òÊvË³t\›îW1^O1šçŠ3Ròç‰#ˆo`oO·võFƒJ#‡§Ä0öÕºåğ?[’İ6p±¸ºûñò1ÔËQ†²J¨L®d‚bĞÅ·¶Ûì‘Ê¿F1¨Å9~8Ú-ª×uøX^ëktC3KôºŒñ·;øX»ŞË££å.zX©¿è<Ğ¹¤K;Ãœ Êh wİVÅ9Aª¯£¯¦t/ÕÔÇ‘¹¤Ú¹¶V…yGÁv‹ãL’F?™®Œµ®Í`p¸ß~¶´1ı¬Rÿ K¨×–kl7¶ö½ïe÷‡(sIC…RÕá°TGDC¤ÌãyÈm÷tõså9ÕãU>İ”Ä"s>W8CƒE¼‘Í¿D1ME.¦’©õ39í1²†åãğ¯½B=Ò)${„Ô—0€íÃuøo¿JèÙÊS›O0Â£Í±Ì×¸—5ÿ H‚Akr—3©b¦fÆAátc\IË½‰¶ûõ§#—~‹cŒ¦’¡Øe@†2Cœ[Àƒc»Š­Šà˜–OÄi$§l†{\î¿ÛbÜªWWÒ>&RšW’ë>ÁÆö7a'Ä/ƒ¤ÚZìw	§£–“û±<?i‘áò–Ùn7wİ9²"*ˆ€°²°€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆ°ƒ(‹ˆ€ˆˆˆ€´Wsÿ …¿¢Ş´Wsÿ …¿¢’CA]=÷.t®‰ƒ{–wmD‘fÑÊËÎ¿½N›j„¼ëûÔé¹æ­Yt¶‚ˆR¦mŒclÑu³Rî¶ø¨LâØØÁ¸síZE½KºÛâ²!w[|UDT\Ô»­¾)©w[|U4D\Ô»­¾)©w[|U4AsRî¶ø¦¥İmñTÑÍKºÛâ±©w[|UDAoRî¶ø¦¥İmñU½CºÛâš‡u·ÅTDõëoŠjÖßQ[Ô;­¾)¨w[|UDAoPî¶ø¦¡İmñU½CºÛâš‡u·ÅTDõëoŠjÖßQ[Ô;­¾)¨w[|UDAoPî¶ø¬jÖßUZÔ;­¾)¨w[|UTAkPî¶ø¦¡İmñUQ­CºÛâš‡u·ÅUDä‰ñØ¸n<
+‚ÙHâ^c;ÚáÁk@Z+¹ÿ ÂßÑoZ+¹ÿ ÂßÑIXi+¢g ŞåÎ•Ñ3ĞorÎí¨’",Ú9Yy×÷©ÓsÍP—z7<Õ«.–ÂQ
+AtÎ[*íÿ Š×5’±€Ø¸u²§şßø¨@ñÑ¼ğk*£ìÔà&=¥T¶i©À/Œ0ŞÎµMØE{]M,™¥ÜÁn+ìv’
+ÚšÊfÌù¦ e{@kGONõ¶}%…õL–7Õµ¦LîkC nënİ¿ïU9|/é†ÒiöY5Á¹²Û£­e˜={ƒœi¤c²¹Äp+îÖéV¶7E+,A‘€pz{{Õ9ñšc@Êh…C²Ô	sHA$d9j—Fë.ºe!å…™lán•óÆXiQ³É©o[‚é$ÒJK™RÓæ` ı‡zÓ]¤±UQ¹ Mº·3+Ü¦æûÉß÷"rçé(*«çS@ùx¶×aÏ¤¥¤™îh†Û{ll¾–ÅG‡iu¬seÖ5ñ5¤Ü7ğïUñ\Y•‘P†µùàÌ\_m÷7Eåà5›Õ2±Ñ† Z×î¿RĞìl±Æi$Ï%ò‹q·÷ÿ Ü´Œ–¢vG;¥™Ìqc€Ê-÷¨Ë¤ØäJ±{[•€¶ÿ nôN_aæ¡ğ
+Y5­ ¹½AJ,™…ÑÑÊæ‚G‘Åt2éM,¯˜j¥ˆ<3ûŒcoqì$€!ÒˆúwHÚ‡˜ß+‰6¹Ì,Ù|è˜–°Ç±Ëœ75½j-Â1Jø›K!‘–Ì-Âë¦Ã±zJŒ6¢)^øµtÅ†ä]ß
+û·ïP:SLè„9'‘äÉ#Òã”[}ø!²ùØ#åÃ1†«Zˆ£)² 0ÊÃJjE<š€/İîÅ¤p¶JG=³;U¬ÍÃ~eëÔÄ2RÉ„í§t‚ÙúPåğ°êS[[3\é”8ô-òá¬dÒ6ºÉ@7n6º°Ù©0ìz	 Îø#-qŞÛÂú§H¨vI£dSµÒFö`A.7÷İÜŠçé0éª©,{ÜÄŸj·M£¸ŒÕ-‰ôî‹0'3¸n[°b>—W+$sµí–í· ­Ói;Œ˜4$[ƒ…ºĞåñ…W2'JiŸ«i±r”¸6!Zd¤•¡ÎºO ¾ÌúC¨Ùf¡dz»5­ÂüIŞ~å‡é¨¬6v‰Ÿ›k]¹x¡Ëå±’˜ê!’'–÷N
+±ôsTÉŒk\Ğá½÷6Ü¾İF”RI+!¹±½™²†Şü7^ßzÒ4‚„¾y_A|Ì®fàÑ”ï±º&ËáK„×Äø™%,Ò›0[‰[1&|>’j‚é‹†N–Ù}é4šŒ>s²G8‚Ğ,×nß¼jù®#M5=0™Ú‡9ÅÒ€/s~´^T¦Ãk!¦ÓÈØMb:Õ5ÒVc”ÒÃTèÙ6¾¦&ÆæºÙn¹´ DDQêN}ª*TœûTPšîğ·ô[–Šîğ·ôRHi+¢g ŞåÎ•Ñ3ĞorÎí¨’",Ú9Yy×÷©ÓsÍP—z7<Õ«.–ÂQ
+AtÎ[*íÿ Š4Fz˜¢ÆGßªåJ§şßø­MqkƒšH ÜĞª:H°Z±IÕ!ìÌ\Ñb@è*Pèô.m3ä’\’Dç¼‹ Ûqè_,ãx|oÚsÁ şŞµ#â%ÁÆ£ƒKm”ZÇÙeS—ßÿ nÀ#š9¥ÛC ˜„[{*ñhõDl’§p“s€½Ú¾,˜Í|.uC³Ü 7`U¹t­ÔôíiÉ<Nsµ€÷èµ‘2_FˆS’]òS‰>A±&Ûº”ŒQí±Sí‡>rÉ'Ñ½ÇRøRãx„·ÏPl[“puïe—c˜‹¤æ æa¸ 6µÏ^ä2[(0úzì`ÓDùYA$ºÅÖWßfK4$Ã"sŞçY¯wÂ¶ò¹
+j©©ªDğHY(7ÌßëØv»h?€-cÄZÖE˜—Ü&(ª™¤MsÉ bßO£ÔtÓ2NyPY%‹GËšf7ˆ1ò½µ4q°â?E)1ìFB3Tp½¬Ğ8ñèDÉtU:?I6YŞæÓÀØ£0†İÄq_Â ©Åêi_;Œ0±ï`ŞàúUXñ¼B76 Ü´7xXpUà¯©‚¢Iã•ÂYwAâ‹’ûãGè¶&Nê“•¥ñ‡‘Àt¯Uèí²kä‘´ğe€0†ï-¹+—‹­Š—gdäE¼ZÂâüwñ[#ÇqŞç6¤İÀp™/¨4v˜Òš¦Ô¹ÔìkƒÜ ôÁ°½YnŠÓº\&™¯2FÇµÖ¸Ì:º41
+¡O$gj¤~w7¬õ«GH1"ĞÓRlw¢8‚/¹EaÂ²™×šXŒÎ…Ì}·‘ÓÜ´ÖhıtœÔ˜ÜöºHÚHà­eğÙ‹V°°¶r^d‡¤zTßW¾ÄéÎG\ãÄ{ÉQÔË{jßÕè•$bĞşµˆfÍ´:ùƒ¸#‚£,–GHów¸Ü²Š‚""ˆˆ€ˆˆˆ€ˆˆˆ€ˆˆ7RsíQR¤çÚ¢€´Wsÿ …¿¢Ş´Wsÿ …¿¢’CI]=÷.t®‰ƒ{–wmD‘fÑÊËÎ¿½N›j„¼ëûÔé¹æ­{eÒØR
+!H.™ËeOı¿ñZVêŸûâ´ªŒ¢" ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆƒu'>Õ*N}ª(Ew?ø[ú-ëEw?ø[ú)$4•Ñ3ĞorçJè™è7¹gvÔIm¬¼ëûÔé¹æ¨ËÎ»½J›^Ùt¶‚ˆR¦m•?öÿ Åi[ª7¶7tZËJ¨Ê"*ˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆˆˆ€ˆ¶ÓA5ULTôÑºYåvV1¢ä”¤çÚ¢ºO‡	£¤‘²êKœÚ‰Zñ«k‡4q6éwÏ$N“-Üÿ áoè·­Üÿ áoè¤ÒWDÏA½Ë+¢g ŞåÛQ$DY´rÒó®ïS¦çš¡/:şõ:ny«VKAH(… ºfÛ… ‹ÓÄ,Ñv#Ä­AeTmÍb<JÎh»æ+PYTlÍb<Jf‹±%kDFÌÑv#Ä¦h»âV´A³4]ˆñ)š.Äx•­lÍb<Jf‹±%kD3ÅØ™âìG‰Z–PlÏb<Jg‹±%jDsÅØ·ÌS<]€ñ+R Û.Àx•ŒñvÄ­hƒfx»âS<]€ñ+Z Ù.Àx”Ï`<JÔˆ6ç‹°%3ÅØµ"Û.Àx”Ïbßµ"¹âì[âS<]‹|JÔˆ6ç‹±o‰Lñv-ñ+R Û.Á¾%3ÅØ7Ä­Hƒnx»ø•–LÆ89‘epàCˆ!iDd¨{Ùneïe©Z+¹ÿ ÂßÑnZk¹ÿ ÂßÑI!¤®‰ƒ{—:WDÏA½Ë;¶¢Hˆ³hååç_Ş¥MÏ5F^uİêtÜóVÌgÒĞR
+!H.œ2TÛ!Ö:Óê·Á[5§Õo‚Î´ú­ğTkE³Z}Vø&´ú­ğA­Íiõ[àšÓê·Á´[5§Õo‚kOªßÖİiõ[à±­>«|kE³Z}Vø&´õ7Á´[5§©¾	­=MğA­Íiêo‚kOS|Öİiõ[àšÓê·Á¤[u§Õo‚kOªßV¤[u§Õo‚kOªß‘lÖŸU¾	­>«|kE³Z}Vø&´ú­ğA­Íiõ[àšÓê·Á´[5ÇÕo‚kªßÑl×U¾	®>«|kX[uÇ©¾	®=MğA©Íiêo‚Ö€´×sãü[ú-ËMw?ø[ú)$4•Ñ3ĞorçJé ŠI#8Şğ ¾V’³»j"ŠrE$vÖ1Ì¿ÂÈ³håeç]Ş§MÏ5FNqİêt¼ûVÌBXY]9e"¨ÊÊÀY@DXA”E„XN„@DDXDE„A”XDD@DDD@DDE„E„A”XDD@DDD@Zk¹ñş-ıå¦»ŸâßÑI!¤¯YäËI!Âfuyk)'³„‡ş·O°¯&+¢g ŞåÛQØr‰¤,Æ±6ÃHZh©®à=7'¹"‹6ÿÙ
+endstream
+endobj
+40 0 obj
+<< /Length 1056 >>
+stream
+1.000 1.000 1.000 rg 0.0 0.0 595.0 842.0 re f
+0.045 0.110 0.160 rg 0.0 770.0 595.0 72.0 re f
+1.000 1.000 1.000 rg BT /FB 15 Tf 1 0 0 1 47.0 798.0 Tm (Evidencias reales de SportSchool) Tj ET
+0.680 0.820 0.760 rg BT /FR 8 Tf 1 0 0 1 47.0 782.0 Tm (SPORTSCHOOL  /  REPORTE TÉCNICO) Tj ET
+0.760 0.800 0.810 RG 0.6 w 47 43 m 548 43 l S
+0.390 0.450 0.490 rg BT /FR 8 Tf 1 0 0 1 47.0 29.0 Tm (UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026) Tj ET
+0.120 0.180 0.230 rg BT /FB 8 Tf 1 0 0 1 529.0 29.0 Tm (14) Tj ET
+0.120 0.180 0.230 rg BT /FB 16 Tf 1 0 0 1 47.0 725.0 Tm (Evidencia 9. Interfaz para teléfono) Tj ET
+q 245.07 0 0 530.00 47 132.00 cm /Im1 Do Q
+0.120 0.180 0.230 rg BT /FB 13 Tf 1 0 0 1 310.0 630.0 Tm (Qué muestra esta captura) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 310.0 600.0 Tm (A 390 px de ancho, el formulario se) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 310.0 583.0 Tm (organiza en una columna y conserva sus) Tj ET
+0.120 0.180 0.230 rg BT /FR 11 Tf 1 0 0 1 310.0 566.0 Tm (campos sin desbordamiento horizontal.) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /FR 3 0 R /FB 4 0 R >> /XObject << /Im1 39 0 R >> >> /Contents 40 0 R >>
 endobj
 xref
-0 35
+0 42
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000193 00000 n 
-0000000290 00000 n 
-0000000392 00000 n 
-0000002793 00000 n 
-0000002929 00000 n 
-0000005778 00000 n 
-0000005914 00000 n 
-0000010316 00000 n 
-0000010453 00000 n 
-0000078483 00000 n 
-0000079301 00000 n 
-0000079466 00000 n 
-0000134198 00000 n 
-0000135020 00000 n 
-0000135185 00000 n 
-0000229469 00000 n 
-0000230292 00000 n 
-0000230457 00000 n 
-0000289114 00000 n 
-0000289963 00000 n 
-0000290128 00000 n 
-0000348099 00000 n 
-0000348916 00000 n 
-0000349081 00000 n 
-0000407569 00000 n 
-0000408425 00000 n 
-0000408590 00000 n 
-0000469469 00000 n 
-0000470329 00000 n 
-0000470494 00000 n 
-0000531579 00000 n 
-0000532435 00000 n 
+0000000214 00000 n 
+0000000311 00000 n 
+0000000413 00000 n 
+0000003386 00000 n 
+0000003522 00000 n 
+0000006917 00000 n 
+0000007053 00000 n 
+0000011096 00000 n 
+0000011233 00000 n 
+0000015004 00000 n 
+0000015142 00000 n 
+0000018794 00000 n 
+0000018932 00000 n 
+0000086962 00000 n 
+0000088053 00000 n 
+0000088218 00000 n 
+0000142950 00000 n 
+0000143951 00000 n 
+0000144116 00000 n 
+0000238400 00000 n 
+0000239471 00000 n 
+0000239636 00000 n 
+0000298293 00000 n 
+0000299365 00000 n 
+0000299530 00000 n 
+0000357501 00000 n 
+0000358566 00000 n 
+0000358731 00000 n 
+0000417219 00000 n 
+0000418297 00000 n 
+0000418462 00000 n 
+0000479341 00000 n 
+0000480414 00000 n 
+0000480579 00000 n 
+0000541664 00000 n 
+0000542659 00000 n 
+0000542824 00000 n 
+0000568642 00000 n 
+0000569751 00000 n 
 trailer
-<< /Size 35 /Root 1 0 R >>
+<< /Size 42 /Root 1 0 R >>
 startxref
-532600
+569916
 %%EOF

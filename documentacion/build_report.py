@@ -25,7 +25,7 @@ class Page:
             self.txt(47,H-44,heading,15,'B',(1,1,1))
             self.txt(47,H-60,'SPORTSCHOOL  /  REPORTE TÉCNICO',8,'R',(.68,.82,.76))
         self.line(47,43,W-47,43,(.76,.8,.81),.6)
-        self.txt(47,29,'UTVT  •  Aplicaciones Web Progresivas  •  Noviembre 2026',8,'R',GRAY)
+        self.txt(47,29,'UTVT  ·  Aplicaciones Web Progresivas  ·  Noviembre 2026',8,'R',GRAY)
         self.txt(W-66,29,f'{number:02d}',8,'B',INK)
 
     def rect(self,x,y,w,h,c): self.commands.append(f'{color(c)} {x:.1f} {y:.1f} {w:.1f} {h:.1f} re f')

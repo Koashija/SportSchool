@@ -1,4 +1,4 @@
-const CACHE='sportschool-shell-v2';
+const CACHE='sportschool-shell-v4';
 const CORE=['/','/index.html','/styles.css','/app.js','/manifest.webmanifest','/icons/icon-192.png','/icons/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('sportschool-shell-')&&key!==CACHE).map(key=>caches.delete(key)))),self.clients.claim()]));});
